@@ -13,15 +13,15 @@ To create/update 'requirements.txt', use `pip freeze > requirements.txt`
 
 ## Modules
  
- - Numpy:
+ - **Numpy**:
 Allows for powerful numerical computing in Python
- - pandas:
+ - **pandas**:
 Library used for data manipulation and data analysis
- - matplotlib:
+ - **matplotlib**:
 Used for Data Visualisation
- - jupyter:
+ - **jupyter**:
 Interactive environment for writing and running code
- - ipykernel:
+ - **ipykernel**:
  Python execution backend for Jupyter notebooks
 
 ## Git Guide
