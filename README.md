@@ -7,9 +7,12 @@ Activate Virtual Environment `venv\Scripts\activate` (windows) or 'source venv/b
 
 Install dependencies using `pip install -r requirements.txt`
 
-(Optional)
-
 To create/update 'requirements.txt', use `pip freeze > requirements.txt`
+
+## Using Jupyter Server
+My VS Code sometimes cant use Jupyter so
+
+To run Jupyter Notebook server. run `Jupyter-notebook` in terminal and select Jupyter Server as interpreter in VS Code
 
 ## Modules
  
