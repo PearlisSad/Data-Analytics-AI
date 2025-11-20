@@ -1,0 +1,753 @@
+session_id,user_id,user_name,sex,age,experience_level,goal,city,join_date,start_datetime,duration_min,workout_type,focus_muscle_group,exercises_count,avg_heart_rate_bpm,max_heart_rate_bpm,calories_burned,perceived_exertion_rpe,equipment_availability,class_attended,trainer,body_weight_kg,body_fat_pct,waist_cm,resting_heart_rate_bpm,notes
+455bd1f7,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-06-16T07:45:00,74,Strength,Chest,7,101,120,507,7,High,False,,77.6,31.1,93.2,58,Tight on time.
+0b89057a,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-06-17T19:30:00,56,Mixed,Chest,9,95,125,457,5,High,False,,77.2,30.8,92.6,58,Used lifting straps.
+2401871e,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-06-18T19:10:00,65,Strength,Back,7,103,128,419,6,Low,False,,77.5,30.5,92.7,58,"Slept poorly, kept it light."
+555ae6ad,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-06-19T17:15:00,48,Cardio,Back,2,105,133,409,5,Medium,False,,77.7,30.2,93.4,58,Tried new gym location.
+fa5cd177,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-06-21T18:20:00,34,Cardio,Full Body,1,105,149,327,7,High,False,,77.7,30.3,91.3,58,Hit a rep PR.
+4a0f732b,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-06-25T19:45:00,85,Hypertrophy,Arms,11,95,120,659,7,Medium,False,,77.2,30.3,94.0,58,Added steady-state cardio at end.
+d4649d05,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-06-29T07:30:00,86,Hypertrophy,Arms,9,93,133,699,6,Medium,False,,77.0,30.2,94.6,58,Good pump today.
+c41363d9,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-01T12:05:00,69,Strength,Chest,5,103,132,457,7,Medium,False,,77.1,31.0,93.8,58,Tried new gym location.
+7116b21a,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-02T17:00:00,51,Cardio,Legs,1,82,97,433,5,Medium,False,,76.6,30.8,94.7,58,Tried new gym location.
+ad38253b,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-03T19:45:00,75,Strength,Shoulders,6,92,129,505,4,Medium,False,,76.8,30.2,94.3,58,Tight on time.
+34e8be8c,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-04T19:45:00,33,Mobility,Legs,4,77,122,137,5,Low,True,Priya,76.9,30.7,93.2,58,DOMS from legs.
+75ff058e,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-05T17:00:00,30,HIIT,Legs,7,103,148,282,6,Low,True,Evan,76.9,30.3,92.2,58,"Slept poorly, kept it light."
+6481074c,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-07T18:45:00,26,HIIT,Back,9,108,143,270,7,Low,False,,76.3,29.8,91.7,58,Tight on time.
+26cd610f,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-09T18:20:00,43,Cardio,Full Body,1,100,130,362,5,Medium,False,,76.8,30.2,91.8,58,Tried new gym location.
+35f08454,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-11T18:15:00,87,Hypertrophy,Chest,8,106,128,718,8,Medium,True,Marcus,77.1,29.9,93.0,58,Used lifting straps.
+be1f550c,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-12T12:00:00,81,Strength,Back,7,105,125,522,7,Low,False,,76.5,30.4,92.2,58,DOMS from legs.
+372b02ef,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-13T07:20:00,90,Hypertrophy,Shoulders,12,93,135,758,6,Medium,False,,76.8,30.3,94.9,58,"Slept poorly, kept it light."
+c2c59503,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-16T18:10:00,33,HIIT,Full Body,6,107,148,383,8,Medium,True,Amir,76.2,29.6,93.3,58,"Slept poorly, kept it light."
+85755552,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-17T12:05:00,76,Strength,Back,7,98,132,501,6,Medium,False,,76.6,30.4,93.6,58,Added steady-state cardio at end.
+e5ed4bdf,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-19T06:20:00,66,Mixed,Core,6,110,131,543,7,Medium,False,,76.3,30.5,93.9,58,Added steady-state cardio at end.
+68ab097d,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-23T12:15:00,85,Hypertrophy,Chest,9,110,132,614,7,Low,False,,76.2,30.4,94.0,58,Tight on time.
+04b0e732,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-25T17:30:00,34,HIIT,Back,7,111,140,358,7,Medium,False,,76.4,29.9,93.7,58,Used lifting straps.
+8b042c79,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-26T06:20:00,59,Mixed,Arms,6,93,133,459,4,Medium,True,Evan,76.4,30.0,93.7,58,"Busy gym, had to swap exercises."
+c1dbcf8b,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-28T06:00:00,91,Hypertrophy,Chest,10,101,145,691,6,Medium,False,,76.1,30.0,94.3,58,Felt strong on compounds.
+97a2d16a,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-30T18:15:00,48,Cardio,Legs,1,92,131,450,5,Medium,False,,76.0,30.1,94.8,58,Hit a rep PR.
+80c23ba2,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-07-31T12:05:00,80,Hypertrophy,Legs,12,110,148,674,7,Medium,False,,75.8,29.7,92.2,58,Added steady-state cardio at end.
+4ca5340d,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-02T18:20:00,42,Mobility,Back,5,70,96,176,3,Low,False,,75.9,30.4,93.5,58,DOMS from legs.
+37ab6f7a,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-06T18:20:00,45,Cardio,Full Body,2,89,110,349,8,Low,False,,75.9,28.8,92.3,58,"Busy gym, had to swap exercises."
+71f4e447,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-07T12:00:00,70,Strength,Legs,9,103,131,461,5,Medium,False,,76.2,29.5,92.2,58,Hit a rep PR.
+6f6afa46,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-08T18:45:00,62,Mixed,Core,5,87,123,507,8,Medium,False,,76.0,29.0,91.7,58,Tight on time.
+5b04e5fa,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-09T19:05:00,38,Cardio,Chest,1,107,136,322,6,Medium,True,Priya,75.4,29.6,90.3,58,DOMS from legs.
+a0d43dc2,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-10T06:10:00,66,Strength,Back,5,108,124,453,8,Medium,False,,75.8,29.5,91.4,58,Good pump today.
+0e76a700,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-11T12:05:00,45,Cardio,Arms,2,105,120,409,6,Medium,False,,75.0,30.0,92.3,58,"Busy gym, had to swap exercises."
+f204cc1c,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-13T19:05:00,32,HIIT,Shoulders,6,110,141,344,8,Low,True,Amir,75.6,29.3,92.2,58,Focused on form.
+0735e07d,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-15T19:45:00,76,Hypertrophy,Full Body,6,95,113,624,8,Medium,False,,75.6,29.7,92.0,58,Added steady-state cardio at end.
+22dc8203,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-17T19:45:00,83,Hypertrophy,Legs,8,94,133,730,8,High,False,,75.1,29.6,92.4,58,Good pump today.
+a36f65fb,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-18T18:15:00,41,Cardio,Chest,1,107,149,351,5,Low,False,,75.5,29.1,93.5,58,"Busy gym, had to swap exercises."
+166fa8bc,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-19T18:10:00,41,Cardio,Core,2,110,125,389,5,Medium,False,,75.2,29.4,93.2,58,"Slept poorly, kept it light."
+35b6fc07,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-21T17:20:00,37,Cardio,Arms,1,120,143,334,7,High,False,,75.4,29.1,92.2,58,Tried new gym location.
+783d2113,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-22T19:20:00,20,HIIT,Legs,10,118,164,198,7,Low,False,,75.1,29.0,92.5,58,Good pump today.
+ee69afdf,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-24T07:30:00,25,HIIT,Back,10,101,123,270,8,Low,False,,75.3,29.0,91.4,58,DOMS from legs.
+55d44d7a,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-25T19:10:00,50,Cardio,Full Body,2,87,129,425,7,Medium,False,,75.0,29.1,92.7,58,Tried new gym location.
+a328a8f9,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-26T12:15:00,54,Mixed,Full Body,6,104,147,424,8,Medium,False,,74.9,29.4,92.6,58,DOMS from legs.
+68d65db6,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-28T18:20:00,29,HIIT,Full Body,8,109,144,298,8,Low,True,Marcus,75.5,28.9,93.2,58,"Busy gym, had to swap exercises."
+64cdb58b,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-30T18:45:00,55,Cardio,Back,2,97,120,473,7,Medium,False,,74.5,28.4,92.2,58,"Busy gym, had to swap exercises."
+1e7b50ad,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-08-31T18:00:00,34,Mobility,Core,6,89,112,148,3,Low,True,,75.2,29.5,92.1,58,Felt strong on compounds.
+33c33bb3,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-02T18:45:00,32,Cardio,Arms,2,114,158,310,3,High,False,,74.5,29.0,92.1,58,Used lifting straps.
+20289713,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-05T19:20:00,44,Cardio,Back,2,100,149,389,5,Low,False,,74.9,28.6,91.7,58,Tried new gym location.
+e248938d,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-07T12:00:00,83,Hypertrophy,Legs,8,105,138,650,4,Medium,False,,74.6,29.7,92.9,58,"Busy gym, had to swap exercises."
+bd186005,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-08T07:15:00,30,HIIT,Chest,9,111,142,347,9,Medium,False,,74.7,29.4,91.4,58,Added steady-state cardio at end.
+296689fa,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-09T17:05:00,28,HIIT,Full Body,6,118,144,305,6,Medium,False,,74.6,28.0,90.8,58,Focused on form.
+2d0c3e87,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-10T17:10:00,38,Mobility,Core,6,93,136,162,5,Medium,False,,74.1,28.9,92.6,58,DOMS from legs.
+7a3a0db2,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-14T12:15:00,30,Cardio,Full Body,2,102,136,260,3,Medium,False,,74.4,29.0,91.9,58,"Busy gym, had to swap exercises."
+16e06c67,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-16T19:20:00,54,Cardio,Chest,1,100,120,465,4,Medium,False,,74.1,28.7,90.7,58,Added steady-state cardio at end.
+6417adb9,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-17T07:10:00,76,Hypertrophy,Legs,8,90,120,642,6,High,False,,74.6,29.1,91.5,58,Tight on time.
+6458d990,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-19T18:45:00,38,Cardio,Full Body,1,103,129,308,4,Low,False,,74.6,29.4,92.2,58,Hit a rep PR.
+4f0cd7d9,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-20T07:00:00,82,Hypertrophy,Shoulders,11,123,141,651,8,Medium,False,,74.0,28.4,91.5,58,Added steady-state cardio at end.
+42892b65,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-23T18:45:00,59,Mixed,Full Body,5,91,115,446,7,Medium,False,,74.4,29.0,92.2,58,Tight on time.
+dc1ec97d,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-24T07:00:00,51,Cardio,Shoulders,2,99,136,436,4,Low,False,,73.9,28.3,93.3,58,"Slept poorly, kept it light."
+5be72619,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-25T18:45:00,22,HIIT,Core,10,95,139,252,8,High,False,,73.8,28.4,91.0,58,Felt strong on compounds.
+4296c960,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-26T17:15:00,24,HIIT,Chest,9,110,137,290,6,High,False,,74.1,28.6,92.1,58,Focused on form.
+7fb112b4,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-28T17:30:00,38,Cardio,Arms,2,99,134,362,4,Medium,False,,73.9,28.2,92.2,58,Used lifting straps.
+3bb331c2,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-29T12:45:00,54,Mixed,Legs,8,85,115,428,4,High,False,,73.9,28.0,91.7,58,Used lifting straps.
+956d83cd,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-09-30T18:15:00,58,Cardio,Shoulders,1,90,106,510,6,Medium,False,,73.6,28.8,90.7,58,Good pump today.
+6854b0de,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-10-02T12:20:00,83,Hypertrophy,Chest,10,111,140,655,6,Medium,False,,73.8,28.6,93.8,58,Hit a rep PR.
+2b7031cd,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-10-05T18:30:00,75,Strength,Legs,6,91,110,500,8,Medium,False,,73.6,29.1,93.3,58,Tight on time.
+5c2a1001,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-10-07T18:10:00,40,Cardio,Full Body,2,113,141,353,5,Medium,False,,73.8,28.0,89.5,58,Tight on time.
+df210e2f,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-10-09T17:05:00,75,Strength,Arms,6,94,125,571,8,High,False,,73.1,28.8,92.4,58,Added steady-state cardio at end.
+189e9595,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-10-10T12:20:00,40,Cardio,Legs,1,103,149,344,7,Low,False,,73.2,28.0,93.2,58,Hit a rep PR.
+ea239890,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-10-11T18:05:00,40,Cardio,Full Body,1,105,149,313,6,Low,False,,73.3,28.1,92.0,58,"Slept poorly, kept it light."
+c489480f,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-10-12T19:20:00,46,Cardio,Chest,2,96,132,422,4,Medium,False,,73.3,27.7,90.6,58,"Slept poorly, kept it light."
+f597544d,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-10-13T19:15:00,26,HIIT,Back,7,117,144,284,9,Medium,False,,73.0,29.1,92.5,58,"Slept poorly, kept it light."
+f18fed45,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-10-17T19:00:00,43,Cardio,Arms,1,109,144,409,6,Medium,False,,73.0,27.6,93.4,58,Added steady-state cardio at end.
+4cf650b9,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-10-20T17:20:00,75,Strength,Core,6,91,113,515,8,Low,False,,73.0,28.4,89.7,58,Tried new gym location.
+c16fa365,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-10-21T06:05:00,85,Strength,Chest,8,95,134,570,6,High,False,,73.2,27.1,90.4,58,Added steady-state cardio at end.
+ff5f6b13,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-10-22T12:05:00,84,Hypertrophy,Core,9,110,138,665,6,High,True,Marcus,72.9,27.9,88.1,58,Tight on time.
+606e97e2,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-10-24T18:30:00,79,Hypertrophy,Chest,10,94,130,592,6,Low,False,,72.7,28.2,90.6,58,Tight on time.
+fb926ce7,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-10-25T07:10:00,26,HIIT,Legs,9,111,143,268,8,Medium,True,Chloe,73.0,27.8,90.6,58,Focused on form.
+234df117,U001,Alice,F,29,Intermediate,Fat Loss,London,2025-06-14,2025-10-26T19:20:00,42,Cardio,Shoulders,2,99,130,355,8,Medium,False,,72.1,27.0,89.1,58,"Slept poorly, kept it light."
+e98dfa7f,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-06-03T19:20:00,61,Mixed,Core,7,116,159,493,6,High,False,,91.7,28.7,93.1,72,Added steady-state cardio at end.
+1344009a,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-06-07T18:15:00,37,Mobility,Shoulders,6,105,120,161,3,High,False,,92.1,27.6,90.6,72,Good pump today.
+8d2cc379,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-06-11T18:45:00,28,HIIT,Legs,9,116,156,322,6,Medium,False,,92.1,28.1,91.1,72,Felt strong on compounds.
+72bbcb86,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-06-12T17:10:00,27,HIIT,Core,10,114,141,322,7,High,False,,91.7,28.4,89.6,72,Tried new gym location.
+3c66ad3f,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-06-14T19:15:00,46,Cardio,Arms,2,106,133,429,6,High,False,,91.9,27.6,91.6,72,Hit a rep PR.
+bea9e451,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-06-17T19:15:00,82,Strength,Full Body,9,111,138,535,6,Medium,False,,92.3,28.0,90.6,72,"Busy gym, had to swap exercises."
+ee8a70a4,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-06-18T17:00:00,72,Strength,Shoulders,5,100,123,484,7,High,False,,91.8,27.3,91.3,72,Added steady-state cardio at end.
+9f256977,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-06-20T19:10:00,21,HIIT,Shoulders,7,132,153,215,7,Medium,False,,92.2,28.3,90.5,72,Focused on form.
+d2e1dca9,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-06-24T19:10:00,41,Cardio,Core,2,118,149,340,5,Low,False,,91.5,27.6,90.2,72,Tight on time.
+52d24386,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-06-27T19:20:00,75,Hypertrophy,Shoulders,10,102,125,587,8,Medium,False,,91.3,28.4,91.3,72,DOMS from legs.
+8ad0e557,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-06-28T18:15:00,80,Hypertrophy,Full Body,7,115,136,597,5,Medium,False,,91.7,28.6,91.7,72,Focused on form.
+a949f547,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-06-29T06:30:00,29,HIIT,Shoulders,7,118,136,300,10,Medium,False,,91.6,26.8,89.9,72,"Busy gym, had to swap exercises."
+951991dc,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-07-02T19:45:00,28,HIIT,Chest,7,115,147,311,8,High,False,,91.6,27.6,91.3,72,"Busy gym, had to swap exercises."
+d96483fa,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-07-04T06:45:00,34,Cardio,Arms,2,115,159,287,7,Low,False,,91.5,27.7,89.3,72,Tried new gym location.
+b0e14bf0,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-07-06T19:15:00,26,HIIT,Core,10,131,147,293,7,Medium,True,Evan,91.5,27.5,91.1,72,Hit a rep PR.
+5f99404f,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-07-09T19:30:00,66,Mixed,Full Body,5,104,125,492,5,Low,False,,91.8,27.1,90.9,72,Tight on time.
+efa3c6f9,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-07-12T19:00:00,44,Cardio,Legs,2,102,140,397,6,High,False,,91.7,27.3,92.1,72,Focused on form.
+52bc6766,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-07-13T18:45:00,30,Mobility,Core,6,111,140,141,3,High,False,,91.0,26.8,91.4,72,Added steady-state cardio at end.
+36a1425c,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-07-15T17:10:00,24,HIIT,Legs,10,116,138,247,5,Medium,True,,91.4,27.2,92.6,72,Good pump today.
+47ff1139,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-07-18T19:10:00,36,Cardio,Shoulders,2,125,168,322,5,Medium,False,,91.7,27.7,89.3,72,Added steady-state cardio at end.
+cd1d6aa6,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-07-19T07:15:00,32,Mobility,Legs,5,95,115,149,3,Medium,True,,91.8,26.9,89.5,72,Tight on time.
+ea6be2d2,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-07-21T19:30:00,39,Cardio,Core,1,117,143,324,5,Low,False,,91.3,26.8,91.1,72,Hit a rep PR.
+fb6818c1,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-07-25T18:20:00,63,Mixed,Full Body,6,117,153,436,5,Low,False,,91.1,26.9,92.7,72,Tried new gym location.
+42d34bf5,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-07-27T06:45:00,30,Mobility,Legs,4,101,141,134,5,Medium,True,Chloe,91.3,27.3,89.5,72,Good pump today.
+c97924d1,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-08-02T17:05:00,45,Cardio,Arms,2,119,153,424,7,Medium,False,,91.4,27.0,91.9,72,Added steady-state cardio at end.
+a480430e,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-08-04T17:00:00,69,Mixed,Full Body,10,114,138,534,7,Low,False,,90.9,26.4,90.7,72,Good pump today.
+a2bb5a94,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-08-06T06:15:00,34,Mobility,Chest,6,103,133,146,3,High,False,,91.1,26.1,90.8,72,Tried new gym location.
+34c66575,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-08-09T12:15:00,46,Cardio,Chest,1,134,172,391,7,Medium,False,,91.1,27.1,89.0,72,DOMS from legs.
+f8c02071,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-08-10T17:20:00,26,HIIT,Full Body,8,127,144,286,8,High,False,,90.8,27.0,88.8,72,"Busy gym, had to swap exercises."
+cb6ed282,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-08-11T17:15:00,34,Mobility,Back,6,112,147,151,3,Medium,False,,90.7,26.4,90.9,72,DOMS from legs.
+96ce399c,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-08-17T17:30:00,66,Mixed,Chest,8,117,145,516,7,Low,False,,91.1,26.3,92.3,72,Felt strong on compounds.
+bf439668,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-08-20T12:15:00,33,Cardio,Chest,2,106,155,269,6,Low,False,,90.7,26.4,89.8,72,Good pump today.
+3dc72c47,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-08-23T06:10:00,81,Strength,Core,8,107,136,622,6,High,False,,91.0,26.6,90.8,72,Tried new gym location.
+a526552c,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-08-25T18:05:00,88,Hypertrophy,Chest,12,110,153,646,7,Low,False,,90.9,25.9,88.1,72,Used lifting straps.
+dd5b62b3,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-08-29T12:45:00,77,Hypertrophy,Core,10,108,140,613,7,High,True,Priya,90.7,25.4,88.8,72,"Busy gym, had to swap exercises."
+85779e6c,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-08-30T18:45:00,58,Strength,Back,5,97,132,426,8,Medium,False,,90.8,26.0,89.5,72,Used lifting straps.
+4fd19d01,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-08-31T17:05:00,25,HIIT,Arms,6,137,173,285,6,High,False,,90.8,25.2,88.9,72,Added steady-state cardio at end.
+26ddf3fc,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-09-03T18:00:00,28,Mobility,Chest,5,97,129,129,4,Medium,False,,90.6,26.2,89.0,72,Felt strong on compounds.
+97893391,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-09-07T19:45:00,31,HIIT,Full Body,9,127,168,351,9,Medium,True,Evan,90.5,26.4,90.4,72,Good pump today.
+3183113d,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-09-08T18:20:00,29,Mobility,Arms,5,113,130,122,3,Medium,False,,90.3,25.7,90.3,72,Focused on form.
+b4214d2a,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-09-09T06:30:00,67,Mixed,Full Body,9,137,173,531,7,High,False,,90.6,25.9,90.5,72,Focused on form.
+97b9c377,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-09-11T17:05:00,23,HIIT,Shoulders,6,117,163,240,6,Low,False,,90.1,25.5,87.6,72,Tried new gym location.
+adebbdc0,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-09-12T12:05:00,32,HIIT,Chest,6,123,164,371,9,Medium,False,,90.8,25.3,91.0,72,Focused on form.
+bff8be25,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-09-13T06:30:00,89,Hypertrophy,Arms,6,108,144,775,6,High,False,,90.7,25.8,87.6,72,DOMS from legs.
+15eab754,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-09-15T17:45:00,58,Mixed,Chest,7,117,152,418,6,Low,False,,90.2,25.2,90.6,72,"Slept poorly, kept it light."
+bee3d8e7,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-09-17T18:05:00,71,Strength,Legs,9,113,157,493,4,Medium,False,,90.6,25.6,91.0,72,Used lifting straps.
+8b6501d5,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-09-20T12:15:00,35,Mobility,Arms,3,88,124,150,3,Medium,False,,91.0,25.9,90.2,72,Tight on time.
+33f66b00,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-09-22T19:10:00,33,Mobility,Full Body,6,93,120,128,3,Low,True,,90.4,25.2,88.9,72,"Slept poorly, kept it light."
+41643696,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-09-23T18:05:00,82,Hypertrophy,Legs,8,109,128,700,7,Medium,False,,90.6,25.7,90.8,72,Used lifting straps.
+6bee866f,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-09-24T06:00:00,20,Mobility,Chest,3,116,135,86,3,High,False,,90.2,25.9,90.0,72,Focused on form.
+24170f8e,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-09-26T17:15:00,29,Mobility,Chest,5,108,128,134,4,Medium,False,,90.4,25.7,92.5,72,Tried new gym location.
+cfe26688,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-10-02T18:10:00,33,Mobility,Chest,3,108,123,157,3,Medium,True,Marcus,90.5,25.0,91.0,72,"Busy gym, had to swap exercises."
+f99563df,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-10-03T18:10:00,54,Mixed,Shoulders,6,116,150,476,6,High,False,,90.4,25.6,90.0,72,Hit a rep PR.
+80a59bb5,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-10-04T18:45:00,31,HIIT,Core,6,128,169,336,8,Medium,False,,90.4,25.7,90.4,72,"Slept poorly, kept it light."
+1eba4a20,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-10-08T18:30:00,25,HIIT,Chest,8,125,140,268,6,Medium,True,,90.6,25.0,87.8,72,Good pump today.
+6cb49453,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-10-09T06:45:00,20,HIIT,Arms,9,119,140,213,6,High,False,,90.5,25.9,87.0,72,Tight on time.
+77764275,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-10-10T18:05:00,29,Mobility,Full Body,3,100,129,125,4,High,False,,89.9,24.6,89.9,72,Good pump today.
+81b8e820,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-10-12T17:45:00,91,Strength,Back,7,121,160,676,8,High,False,,90.0,25.3,89.0,72,"Busy gym, had to swap exercises."
+6a857f88,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-10-13T19:30:00,32,Mobility,Shoulders,5,88,114,128,3,Low,False,,90.4,25.5,87.5,72,Good pump today.
+0f845829,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-10-14T07:00:00,53,Mixed,Legs,7,121,148,401,5,Medium,False,,90.2,25.9,90.0,72,DOMS from legs.
+3ff01271,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-10-18T06:15:00,76,Strength,Legs,7,103,125,566,7,Medium,True,Evan,90.4,25.2,88.6,72,Used lifting straps.
+bf6fc451,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-10-19T18:15:00,60,Mixed,Chest,8,118,157,505,7,Medium,False,,89.7,25.5,89.0,72,Tried new gym location.
+444e37b3,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-10-21T17:05:00,46,Cardio,Full Body,1,123,146,432,5,Medium,False,,89.8,25.1,88.1,72,Felt strong on compounds.
+9f81cc3f,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-10-22T12:15:00,41,Mobility,Arms,4,86,127,178,3,Low,False,,90.3,25.6,87.7,72,Focused on form.
+a22e4e02,U002,Ben,M,34,Beginner,General Fitness,London,2025-06-02,2025-10-24T17:10:00,61,Mixed,Full Body,7,125,154,536,4,High,True,Evan,89.8,25.7,91.5,72,DOMS from legs.
+d7207938,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-03T18:30:00,78,Strength,Chest,9,120,143,513,4,Medium,False,,60.8,19.8,84.6,69,Tight on time.
+022f2c5b,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-04T19:30:00,38,Cardio,Chest,2,114,153,339,6,High,False,,61.2,19.2,84.8,69,Good pump today.
+60afe487,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-05T19:30:00,68,Mixed,Arms,5,96,145,511,6,Low,False,,61.4,20.0,84.2,69,DOMS from legs.
+b99eb3f7,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-06T17:10:00,68,Strength,Core,8,107,143,413,6,Low,False,,61.3,20.4,86.1,69,"Busy gym, had to swap exercises."
+ebf7e220,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-08T18:20:00,72,Strength,Legs,9,112,147,471,6,Low,False,,60.9,20.2,85.8,69,"Busy gym, had to swap exercises."
+e320ad52,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-10T07:45:00,83,Hypertrophy,Back,11,102,127,625,6,Medium,False,,60.6,20.3,83.9,69,Good pump today.
+b008fd3c,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-14T18:05:00,29,Cardio,Core,2,117,159,260,9,Medium,False,,61.0,20.2,84.7,69,Tight on time.
+44619da0,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-16T17:10:00,83,Hypertrophy,Back,12,115,139,625,7,Medium,False,,60.9,20.1,85.1,69,"Busy gym, had to swap exercises."
+b17b72c2,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-17T19:00:00,87,Hypertrophy,Chest,11,109,132,672,10,Low,False,,61.0,19.8,85.5,69,Tight on time.
+6a8bd73b,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-18T06:05:00,21,Mobility,Back,6,97,116,95,3,High,True,Marcus,61.2,20.1,85.6,69,Added steady-state cardio at end.
+1f4331ca,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-19T19:00:00,75,Strength,Shoulders,5,91,119,496,7,Medium,False,,60.8,19.7,85.3,69,Good pump today.
+57019591,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-20T19:45:00,70,Strength,Chest,7,106,150,459,6,Medium,False,,61.0,19.9,85.2,69,"Busy gym, had to swap exercises."
+1ca51dd1,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-21T18:15:00,76,Strength,Legs,6,107,146,556,7,High,False,,61.7,19.7,84.5,69,Used lifting straps.
+1950385c,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-22T12:00:00,86,Hypertrophy,Core,10,106,133,741,6,High,False,,61.0,19.1,83.6,69,Added steady-state cardio at end.
+5ed3aa94,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-24T18:00:00,44,Cardio,Legs,2,102,117,381,7,Medium,True,Amir,60.9,20.1,82.8,69,Hit a rep PR.
+0ec30125,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-25T18:05:00,73,Mixed,Chest,9,101,125,621,6,High,False,,60.8,19.5,86.4,69,DOMS from legs.
+e760cdb3,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-26T06:45:00,78,Hypertrophy,Legs,8,105,140,618,7,Medium,False,,61.1,20.5,87.1,69,"Slept poorly, kept it light."
+06604824,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-29T17:10:00,44,Cardio,Shoulders,2,120,153,383,6,High,False,,61.0,21.0,86.0,69,"Slept poorly, kept it light."
+8e2730a7,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-06-30T18:15:00,40,Cardio,Chest,2,115,132,335,6,Medium,False,,61.5,19.8,83.3,69,Focused on form.
+e25b9120,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-01T19:20:00,84,Hypertrophy,Legs,8,120,140,660,7,High,False,,61.4,20.6,84.6,69,Tried new gym location.
+75f32366,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-02T17:00:00,70,Hypertrophy,Shoulders,9,123,144,530,7,Medium,False,,61.5,20.0,85.0,69,Added steady-state cardio at end.
+779cee3c,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-03T18:10:00,30,HIIT,Full Body,9,134,171,344,7,Medium,True,Priya,61.0,19.8,82.5,69,DOMS from legs.
+9796a7d4,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-05T12:00:00,93,Hypertrophy,Legs,9,102,145,738,6,High,False,,61.2,19.7,85.8,69,"Busy gym, had to swap exercises."
+54d6dc58,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-06T18:10:00,81,Hypertrophy,Core,6,117,145,679,6,Medium,True,,61.4,20.7,85.8,69,Good pump today.
+5cc56e99,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-08T18:30:00,66,Strength,Arms,8,105,149,407,6,Low,True,Evan,61.4,20.5,88.2,69,Hit a rep PR.
+5c586ae9,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-09T18:10:00,82,Strength,Back,8,88,123,542,7,Low,False,,61.6,20.5,85.2,69,Added steady-state cardio at end.
+ca836e06,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-11T18:20:00,66,Strength,Legs,6,105,144,442,6,Medium,False,,61.4,20.8,85.0,69,"Busy gym, had to swap exercises."
+02d628c6,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-12T17:15:00,36,Cardio,Full Body,2,116,131,345,6,High,False,,61.1,20.5,85.3,69,Tight on time.
+2ef778fb,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-13T19:15:00,54,Mixed,Core,10,102,131,418,7,Low,False,,60.8,20.5,85.8,69,Tried new gym location.
+b43ceae1,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-14T17:00:00,63,Strength,Back,6,119,146,453,4,Medium,False,,61.6,20.1,88.1,69,Hit a rep PR.
+e1084316,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-16T07:05:00,71,Strength,Shoulders,5,108,140,501,8,Medium,False,,61.5,20.1,86.0,69,Good pump today.
+11432574,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-18T17:20:00,74,Strength,Shoulders,8,112,134,447,7,Low,False,,61.5,20.3,87.0,69,Used lifting straps.
+5deba22e,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-19T06:10:00,72,Hypertrophy,Full Body,10,109,133,570,6,Medium,False,,61.0,20.4,86.0,69,Tried new gym location.
+e03b2a66,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-20T19:20:00,67,Strength,Full Body,6,104,131,506,7,High,False,,61.8,21.0,85.2,69,Tight on time.
+824f934f,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-21T19:10:00,67,Strength,Full Body,7,103,131,458,4,Low,False,,61.6,20.3,84.8,69,DOMS from legs.
+76e02b84,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-22T18:20:00,82,Hypertrophy,Full Body,10,109,138,641,7,High,False,,61.3,21.1,87.8,69,Felt strong on compounds.
+010777a8,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-23T19:00:00,39,Cardio,Legs,1,104,142,306,7,Low,False,,61.4,20.4,84.1,69,Used lifting straps.
+c2cc261e,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-24T18:15:00,74,Hypertrophy,Legs,9,113,135,573,7,Medium,False,,61.7,20.2,85.2,69,Focused on form.
+a0e29b13,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-25T12:00:00,70,Strength,Shoulders,8,88,113,517,7,Medium,False,,61.4,20.4,86.2,69,Used lifting straps.
+7ec1fe0e,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-28T07:10:00,74,Strength,Back,8,102,124,534,8,Medium,False,,61.1,20.5,83.8,69,Hit a rep PR.
+154d8507,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-29T07:00:00,78,Strength,Arms,8,107,140,550,5,High,False,,61.3,20.7,85.0,69,Good pump today.
+8c55a58f,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-07-31T19:30:00,86,Hypertrophy,Arms,9,126,150,664,7,Low,False,,61.3,20.1,85.2,69,Added steady-state cardio at end.
+2b4bd3ed,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-01T06:15:00,52,Mixed,Back,9,87,106,441,7,Medium,False,,61.9,21.1,84.6,69,Tight on time.
+da7f073e,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-02T17:45:00,75,Hypertrophy,Core,6,111,141,625,6,Medium,False,,61.2,20.2,84.0,69,Good pump today.
+d705379a,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-03T06:20:00,90,Hypertrophy,Chest,9,113,154,780,6,High,False,,61.5,20.4,85.3,69,Tight on time.
+1ce9d1f8,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-04T19:20:00,55,Mixed,Shoulders,7,111,140,428,8,High,False,,61.3,20.9,85.9,69,DOMS from legs.
+946c801d,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-05T19:45:00,70,Hypertrophy,Chest,6,118,150,570,6,Medium,True,Amir,61.6,20.4,83.8,69,Added steady-state cardio at end.
+e248a983,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-06T18:05:00,75,Strength,Arms,7,115,139,551,8,Medium,False,,61.4,20.3,84.1,69,Tight on time.
+b68f42e8,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-09T18:20:00,44,Cardio,Legs,2,131,148,417,5,Medium,False,,61.6,20.5,85.7,69,Good pump today.
+0a0f774e,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-10T18:30:00,87,Hypertrophy,Legs,11,122,141,733,8,Medium,False,,62.1,20.7,86.0,69,Used lifting straps.
+e910f59e,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-12T12:00:00,76,Strength,Full Body,9,104,124,558,9,Medium,False,,61.6,20.4,83.0,69,"Busy gym, had to swap exercises."
+fa4e359f,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-13T19:05:00,73,Strength,Chest,8,112,142,469,6,Low,False,,61.4,20.8,86.3,69,Focused on form.
+bc0bb1a1,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-15T18:15:00,78,Hypertrophy,Core,11,108,127,610,7,Medium,False,,61.8,19.9,86.4,69,"Busy gym, had to swap exercises."
+0abc78fd,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-18T19:15:00,83,Strength,Arms,7,107,125,595,6,Medium,False,,61.4,20.6,85.8,69,Tried new gym location.
+95b2c701,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-19T18:30:00,58,Mixed,Legs,9,115,138,473,6,Medium,False,,61.1,20.6,86.7,69,Tight on time.
+8ea3bf11,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-21T18:30:00,66,Strength,Core,7,113,147,446,8,Medium,False,,61.7,21.3,85.9,69,Tried new gym location.
+32fb14aa,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-23T18:15:00,23,HIIT,Legs,6,124,161,228,8,Low,False,,61.5,20.2,84.9,69,"Slept poorly, kept it light."
+18131395,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-24T12:20:00,77,Hypertrophy,Legs,7,117,159,657,6,High,False,,61.9,20.4,86.3,69,Used lifting straps.
+f9d622b1,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-26T12:00:00,82,Hypertrophy,Full Body,7,125,142,632,3,Medium,True,,61.5,20.0,85.9,69,Good pump today.
+e5ddf5d9,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-27T18:00:00,67,Mixed,Back,8,104,120,583,8,High,False,,62.0,20.6,85.2,69,Added steady-state cardio at end.
+edd71343,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-29T18:45:00,80,Hypertrophy,Core,6,120,136,669,7,Medium,False,,61.8,20.9,88.9,69,DOMS from legs.
+d1da3372,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-30T18:45:00,62,Strength,Core,6,96,129,414,7,Low,False,,61.8,21.2,87.6,69,Focused on form.
+44d2ab1a,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-08-31T12:20:00,64,Mixed,Legs,8,111,129,518,5,High,False,,61.8,20.7,87.3,69,DOMS from legs.
+cf6490ce,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-01T17:05:00,79,Strength,Chest,7,125,142,533,6,Medium,False,,61.5,20.6,85.0,69,Tried new gym location.
+d0c515ca,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-02T12:05:00,70,Strength,Legs,9,96,129,489,6,High,False,,61.6,20.7,86.8,69,"Busy gym, had to swap exercises."
+6d1e47c0,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-03T18:30:00,76,Hypertrophy,Chest,9,109,137,593,9,Low,False,,61.7,20.3,84.9,69,"Busy gym, had to swap exercises."
+82a06656,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-05T17:05:00,74,Hypertrophy,Legs,8,119,148,608,8,Medium,False,,61.6,20.4,83.7,69,Used lifting straps.
+eb54d6f3,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-06T06:30:00,62,Strength,Full Body,5,114,150,453,6,High,False,,61.5,20.7,87.5,69,Focused on form.
+b354b806,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-07T19:10:00,58,Mixed,Shoulders,6,103,131,455,7,Medium,False,,61.6,20.9,85.5,69,Good pump today.
+e8518c71,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-09T17:20:00,29,HIIT,Core,7,124,155,297,7,Low,False,,61.8,21.1,86.2,69,Used lifting straps.
+b21cbe12,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-11T19:00:00,70,Strength,Arms,5,110,152,460,5,Medium,True,Marcus,61.5,21.8,85.8,69,Used lifting straps.
+e56f1f9c,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-12T18:05:00,61,Strength,Back,9,113,149,436,6,Medium,False,,62.1,20.2,86.3,69,Added steady-state cardio at end.
+4aed961d,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-13T19:15:00,86,Hypertrophy,Arms,9,105,133,716,5,Medium,False,,61.5,20.0,86.4,69,Felt strong on compounds.
+7f34b2ba,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-14T06:10:00,85,Hypertrophy,Chest,6,103,123,673,7,Medium,False,,61.7,21.1,87.4,69,Felt strong on compounds.
+184adb84,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-15T12:05:00,50,Cardio,Full Body,2,110,137,438,6,Medium,False,,61.3,21.3,88.3,69,Added steady-state cardio at end.
+c040a38f,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-16T19:15:00,76,Hypertrophy,Arms,7,110,125,608,6,Medium,False,,61.6,20.7,85.5,69,"Slept poorly, kept it light."
+5cc65faf,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-17T07:20:00,72,Strength,Back,5,105,128,548,7,High,False,,61.7,20.8,86.0,69,Added steady-state cardio at end.
+b7f82f42,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-18T18:20:00,81,Strength,Shoulders,7,95,120,570,4,Medium,False,,62.2,21.6,87.1,69,"Slept poorly, kept it light."
+0f8f7e9c,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-19T06:30:00,45,Cardio,Chest,1,100,122,387,4,Medium,False,,61.4,20.4,85.4,69,Used lifting straps.
+6a98e14b,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-21T18:15:00,48,Cardio,Core,1,99,118,428,3,Medium,False,,61.7,21.2,88.3,69,Hit a rep PR.
+79d71ef7,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-24T19:30:00,35,Cardio,Core,2,118,144,294,4,Medium,False,,61.9,20.9,87.8,69,Tried new gym location.
+3203b4f0,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-25T18:15:00,30,Mobility,Full Body,4,99,137,134,5,High,False,,61.8,21.3,85.9,69,DOMS from legs.
+ba6ccb7d,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-26T17:10:00,32,Cardio,Legs,2,124,147,276,6,Medium,False,,61.2,21.9,86.2,69,Focused on form.
+c8d34bb1,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-27T07:20:00,29,HIIT,Legs,7,118,155,322,8,Medium,False,,61.8,20.7,86.9,69,DOMS from legs.
+c6638072,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-09-29T12:05:00,55,Strength,Shoulders,7,112,127,395,7,High,False,,62.1,21.3,85.5,69,Hit a rep PR.
+99cbb873,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-01T06:15:00,75,Hypertrophy,Core,6,120,143,575,7,Medium,False,,62.1,21.1,86.7,69,Tried new gym location.
+9a81ecae,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-02T18:15:00,78,Strength,Chest,6,97,139,521,7,Low,False,,62.0,21.0,84.9,69,"Slept poorly, kept it light."
+c59b4294,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-03T18:45:00,81,Hypertrophy,Back,9,104,131,639,6,Medium,False,,61.7,20.7,83.3,69,Good pump today.
+43c07ee6,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-04T18:15:00,76,Strength,Legs,9,107,145,547,5,Medium,False,,61.8,20.6,84.3,69,"Slept poorly, kept it light."
+4b80b17a,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-07T19:10:00,28,HIIT,Full Body,7,116,158,313,8,High,True,,61.4,21.2,84.4,69,Tight on time.
+cabdc401,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-08T07:10:00,80,Hypertrophy,Back,9,113,138,672,6,High,False,,62.2,21.8,84.9,69,Good pump today.
+3e3edb39,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-10T12:45:00,38,Cardio,Full Body,2,116,151,329,6,Medium,False,,62.0,21.3,89.4,69,Good pump today.
+1e8d1523,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-11T07:30:00,77,Strength,Arms,5,103,126,538,6,Medium,False,,61.7,20.6,85.5,69,Tried new gym location.
+64addf6c,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-12T12:30:00,68,Strength,Shoulders,7,100,118,480,7,High,True,,61.8,21.3,86.4,69,Tried new gym location.
+b27d5355,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-13T17:00:00,76,Strength,Full Body,7,114,140,566,6,Medium,False,,61.9,21.7,88.3,69,Felt strong on compounds.
+4ce631de,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-14T18:30:00,26,Mobility,Chest,3,96,135,114,3,Low,False,,62.0,21.0,85.1,69,Hit a rep PR.
+bd36e5aa,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-15T18:10:00,72,Strength,Legs,8,112,128,494,9,Medium,False,,61.2,21.0,84.0,69,Hit a rep PR.
+b1c427db,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-18T12:45:00,78,Hypertrophy,Core,11,99,115,647,5,Medium,False,,62.0,21.1,86.6,69,Focused on form.
+0b9f2ad3,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-22T17:30:00,86,Hypertrophy,Shoulders,11,110,131,726,6,High,False,,61.9,21.5,87.2,69,"Slept poorly, kept it light."
+6990124b,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-23T19:00:00,87,Hypertrophy,Arms,9,96,126,659,6,Low,False,,62.2,20.8,85.4,69,Tried new gym location.
+9d86d891,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-25T19:20:00,32,Mobility,Legs,3,88,111,155,3,High,False,,61.7,20.9,82.6,69,"Busy gym, had to swap exercises."
+a2be8b01,U003,Clara,F,41,Advanced,Muscle Gain,Birmingham,2025-06-01,2025-10-26T07:05:00,19,HIIT,Full Body,10,120,148,222,8,Medium,False,,61.8,21.5,87.1,69,"Busy gym, had to swap exercises."
+4be34580,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-06-03T06:15:00,77,Strength,Legs,9,103,121,517,7,High,False,,81.0,18.4,82.8,65,Focused on form.
+c574ce02,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-06-05T19:10:00,20,HIIT,Shoulders,7,119,145,204,7,Medium,False,,81.0,18.1,83.7,65,Focused on form.
+5acd4a7f,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-06-08T07:20:00,73,Strength,Core,9,115,141,496,5,Medium,False,,80.8,18.5,83.7,65,"Slept poorly, kept it light."
+f5acd859,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-06-09T06:05:00,55,Mixed,Back,10,106,149,481,7,High,False,,81.0,17.3,82.1,65,"Slept poorly, kept it light."
+52371aa1,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-06-10T17:45:00,77,Hypertrophy,Shoulders,9,117,149,603,8,High,False,,80.6,18.5,82.4,65,Focused on form.
+51bc5a27,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-06-12T07:00:00,80,Strength,Arms,9,108,131,574,7,High,False,,80.9,17.9,82.3,65,Felt strong on compounds.
+6bcc7a14,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-06-16T12:15:00,73,Mixed,Arms,6,94,124,598,6,Medium,False,,81.1,17.5,85.6,65,Tried new gym location.
+9c41bed7,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-06-20T07:10:00,24,HIIT,Back,6,116,135,269,6,High,True,Chloe,81.0,17.1,83.2,65,Focused on form.
+30e98d51,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-06-24T19:30:00,70,Hypertrophy,Shoulders,6,108,152,535,6,Medium,False,,80.9,17.8,83.1,65,Focused on form.
+80e25624,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-06-25T17:20:00,22,HIIT,Legs,9,104,143,227,8,Low,False,,81.2,17.7,82.8,65,Used lifting straps.
+757c9615,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-06-26T07:10:00,59,Mixed,Back,8,96,120,494,8,Medium,False,,80.8,17.2,82.7,65,Good pump today.
+69bf24b0,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-06-27T12:30:00,30,Mobility,Core,4,86,109,133,5,Medium,False,,80.7,18.1,85.2,65,Focused on form.
+0a917a7c,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-06-30T17:20:00,75,Hypertrophy,Full Body,12,88,130,532,8,Low,False,,81.1,16.9,81.7,65,Added steady-state cardio at end.
+0d0ba4b6,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-07-02T17:10:00,22,HIIT,Full Body,9,117,133,233,6,High,True,Chloe,81.0,17.4,83.7,65,Hit a rep PR.
+98f6064e,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-07-06T12:05:00,32,HIIT,Chest,9,104,134,364,8,Medium,False,,80.7,17.8,82.8,65,Used lifting straps.
+3e9e4745,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-07-11T19:45:00,25,Cardio,Full Body,1,113,133,219,5,Medium,False,,80.1,17.3,83.4,65,Tried new gym location.
+8cce5765,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-07-12T18:05:00,62,Mixed,Full Body,10,116,154,521,5,High,False,,80.8,17.7,82.4,65,Focused on form.
+5b675181,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-07-13T07:00:00,25,Mobility,Full Body,4,98,114,123,3,High,False,,80.4,16.7,83.1,65,Added steady-state cardio at end.
+b1336aa7,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-07-20T18:20:00,28,HIIT,Chest,8,116,148,275,8,Low,False,,80.8,16.8,81.1,65,"Slept poorly, kept it light."
+68c99d2b,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-07-21T19:30:00,30,HIIT,Core,7,103,137,310,7,Medium,False,,80.8,17.1,84.4,65,Added steady-state cardio at end.
+510ffcd1,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-07-22T06:00:00,64,Strength,Chest,7,111,148,423,5,Medium,False,,80.1,17.0,83.9,65,"Busy gym, had to swap exercises."
+0e268407,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-07-24T19:30:00,86,Hypertrophy,Legs,10,113,148,731,7,High,False,,80.9,16.7,81.7,65,Hit a rep PR.
+a9218003,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-07-25T18:30:00,23,HIIT,Shoulders,6,121,157,255,9,Medium,False,,80.1,16.9,83.1,65,Added steady-state cardio at end.
+e64624fe,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-07-27T18:15:00,39,Cardio,Core,1,104,119,367,6,Medium,False,,80.2,16.7,83.4,65,"Busy gym, had to swap exercises."
+e800e137,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-07-30T07:30:00,34,Mobility,Full Body,5,89,109,140,4,Low,False,,80.7,16.9,84.2,65,Focused on form.
+7ca2b8aa,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-07-31T18:10:00,73,Hypertrophy,Core,11,104,144,555,7,Medium,False,,80.5,17.2,83.5,65,Used lifting straps.
+3960f393,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-08-01T18:30:00,46,Cardio,Chest,1,99,131,446,6,High,False,,80.4,16.4,80.8,65,DOMS from legs.
+f1adf790,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-08-04T17:20:00,88,Hypertrophy,Shoulders,11,94,119,726,6,Medium,False,,80.1,16.2,83.4,65,"Busy gym, had to swap exercises."
+6dc0b8d2,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-08-06T12:05:00,24,HIIT,Arms,6,118,153,276,7,High,False,,80.9,16.5,81.8,65,Added steady-state cardio at end.
+1048aa28,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-08-08T07:45:00,30,Mobility,Arms,6,88,132,130,3,High,False,,80.5,16.3,83.1,65,Focused on form.
+f8c082dc,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-08-09T18:15:00,81,Strength,Core,6,88,114,564,5,High,False,,80.1,16.6,83.4,65,Hit a rep PR.
+d59e6395,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-08-14T07:15:00,26,HIIT,Arms,10,120,137,269,8,Medium,True,Evan,80.4,17.2,84.3,65,Tight on time.
+b3ef4d1b,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-08-16T18:45:00,66,Strength,Core,8,110,125,492,7,Medium,False,,80.8,15.9,82.8,65,"Slept poorly, kept it light."
+e2a71e79,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-08-20T19:00:00,64,Strength,Shoulders,5,101,133,460,7,Medium,False,,80.4,16.3,80.2,65,Hit a rep PR.
+89415b2d,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-08-21T19:20:00,34,Mobility,Full Body,6,93,123,147,3,Low,True,Priya,80.2,16.3,82.4,65,Hit a rep PR.
+86b2e214,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-08-24T19:45:00,43,Cardio,Arms,1,97,125,399,4,Medium,False,,80.8,16.8,80.9,65,Tight on time.
+42d3a7f8,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-08-25T12:10:00,35,Mobility,Full Body,3,84,108,152,4,Low,True,,80.2,15.9,83.7,65,Felt strong on compounds.
+b643b91d,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-08-27T18:05:00,90,Hypertrophy,Core,12,109,131,704,8,Low,False,,80.5,16.2,82.9,65,"Busy gym, had to swap exercises."
+ad8f4b36,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-08-28T18:10:00,78,Strength,Full Body,5,93,130,564,6,Medium,False,,80.2,16.3,82.9,65,Tight on time.
+efda093d,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-08-31T18:10:00,25,Mobility,Chest,3,95,121,118,4,Medium,False,,80.7,15.5,82.2,65,Tried new gym location.
+74f3fcca,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-09-07T17:00:00,31,HIIT,Core,7,130,173,320,7,Medium,False,,80.2,15.2,80.3,65,Tight on time.
+bd0f2cd7,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-09-08T17:20:00,42,Cardio,Full Body,1,111,134,360,5,Low,True,,80.0,16.2,81.6,65,Felt strong on compounds.
+d8a229da,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-09-09T17:15:00,85,Hypertrophy,Full Body,8,109,148,697,5,Medium,False,,80.0,15.9,79.8,65,"Slept poorly, kept it light."
+f17c626e,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-09-10T18:10:00,45,Mixed,Back,5,111,136,376,8,Medium,False,,80.2,15.8,82.1,65,Hit a rep PR.
+b8ee3a1c,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-09-12T17:00:00,26,HIIT,Chest,7,99,142,310,8,High,False,,79.8,15.3,81.3,65,Tried new gym location.
+ba93d977,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-09-16T18:45:00,65,Mixed,Back,8,103,145,474,7,Low,True,,80.4,15.4,82.0,65,"Slept poorly, kept it light."
+3813a0e8,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-09-19T18:00:00,37,Cardio,Back,2,107,126,309,6,Medium,False,,80.3,16.4,81.8,65,Tried new gym location.
+b3a000bf,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-09-21T19:05:00,34,Mobility,Full Body,4,86,107,153,3,Medium,False,,79.9,15.4,82.5,65,Hit a rep PR.
+08194e65,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-09-24T18:45:00,69,Hypertrophy,Core,6,87,122,521,7,Low,False,,79.9,16.0,81.5,65,Good pump today.
+a1d1e77d,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-09-25T19:10:00,63,Mixed,Chest,6,124,142,511,5,Medium,False,,80.1,15.2,81.9,65,Used lifting straps.
+dddc3362,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-09-26T12:30:00,65,Mixed,Legs,6,105,126,536,6,High,False,,80.0,16.4,83.3,65,Hit a rep PR.
+4af72516,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-09-28T18:10:00,72,Hypertrophy,Shoulders,9,108,128,546,7,Low,False,,80.2,15.4,82.8,65,Tried new gym location.
+aaf89c8f,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-09-29T18:20:00,48,Cardio,Legs,1,105,133,425,6,High,False,,80.4,15.4,80.5,65,Focused on form.
+ba02621c,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-10-01T18:45:00,81,Strength,Legs,6,107,123,578,6,Medium,True,,80.5,15.3,79.0,65,Focused on form.
+5bc643dd,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-10-02T18:30:00,28,HIIT,Full Body,9,107,138,266,6,Low,True,Priya,80.6,15.3,82.8,65,Tight on time.
+ce95cc35,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-10-04T06:00:00,86,Hypertrophy,Core,7,105,120,717,9,Medium,False,,80.0,15.5,81.9,65,Used lifting straps.
+14a3c50d,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-10-07T18:30:00,84,Hypertrophy,Chest,9,113,152,673,7,Medium,False,,80.5,15.0,81.6,65,Used lifting straps.
+c3cc4169,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-10-09T06:30:00,61,Mixed,Back,5,106,143,515,9,Medium,True,Priya,80.4,15.4,82.4,65,Felt strong on compounds.
+d0a7244a,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-10-12T07:10:00,53,Mixed,Legs,6,110,139,436,5,Medium,False,,79.8,14.8,80.1,65,Tight on time.
+d0cde3ff,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-10-13T18:00:00,28,HIIT,Legs,10,116,146,303,6,High,True,Evan,80.4,15.4,82.5,65,Added steady-state cardio at end.
+fddc77af,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-10-17T17:15:00,85,Hypertrophy,Legs,12,98,141,713,7,High,False,,79.8,14.9,79.7,65,Tried new gym location.
+564ae72b,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-10-18T18:05:00,79,Strength,Back,5,91,125,594,8,High,False,,79.9,15.4,81.6,65,"Busy gym, had to swap exercises."
+a4d1e872,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-10-21T18:30:00,36,Cardio,Back,2,94,109,313,4,Medium,False,,80.1,14.8,80.9,65,Tight on time.
+6ef9b2f4,U004,Dan,M,26,Intermediate,Performance,Manchester,2025-06-03,2025-10-22T19:20:00,66,Strength,Back,6,112,153,487,7,Medium,False,,80.1,15.2,79.3,65,Focused on form.
+00d4a330,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-06-07T06:15:00,84,Hypertrophy,Arms,12,92,107,678,7,High,False,,84.5,35.3,95.8,59,Hit a rep PR.
+54b8eff2,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-06-08T17:20:00,28,HIIT,Full Body,10,117,138,296,8,Low,False,,85.2,35.3,97.5,59,"Busy gym, had to swap exercises."
+0aa3413a,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-06-09T06:15:00,48,Cardio,Full Body,1,105,142,441,6,High,False,,84.4,34.6,97.5,59,Tried new gym location.
+cc266379,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-06-10T17:30:00,43,Cardio,Back,2,102,132,382,7,High,False,,84.9,35.2,96.5,59,"Busy gym, had to swap exercises."
+d3d83124,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-06-11T18:00:00,33,Mobility,Shoulders,5,102,137,145,4,Medium,False,,84.7,34.3,97.8,59,"Slept poorly, kept it light."
+e319c14b,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-06-14T19:00:00,22,HIIT,Back,7,118,137,254,8,High,False,,84.5,35.6,96.9,59,Focused on form.
+bf260d8f,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-06-15T18:30:00,77,Hypertrophy,Back,7,103,118,640,8,Medium,False,,84.5,34.3,100.1,59,"Slept poorly, kept it light."
+3c0558ef,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-06-16T07:05:00,72,Hypertrophy,Chest,10,98,130,558,9,Medium,False,,84.8,34.5,96.4,59,Added steady-state cardio at end.
+d97d6c7d,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-06-18T17:10:00,26,HIIT,Legs,10,107,124,298,9,High,True,Amir,84.6,34.9,96.5,59,"Busy gym, had to swap exercises."
+a511883d,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-06-20T06:05:00,41,Cardio,Chest,2,101,143,329,6,Low,False,,84.6,34.7,97.3,59,Felt strong on compounds.
+6c713a06,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-06-24T18:05:00,25,HIIT,Chest,6,109,126,271,6,High,True,Marcus,83.7,34.5,94.5,59,"Busy gym, had to swap exercises."
+f9ed07fc,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-06-25T07:15:00,39,Cardio,Full Body,1,99,122,347,6,High,False,,83.9,34.0,95.7,59,"Slept poorly, kept it light."
+227b0a08,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-06-27T06:00:00,27,HIIT,Core,7,116,135,299,8,High,True,Amir,83.6,34.5,98.2,59,"Slept poorly, kept it light."
+754acdc0,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-06-28T19:15:00,76,Strength,Full Body,8,88,118,505,7,Medium,False,,83.7,34.5,95.6,59,"Busy gym, had to swap exercises."
+c920dc10,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-06-29T12:15:00,81,Strength,Arms,9,89,109,515,7,Low,False,,84.2,34.9,97.7,59,Added steady-state cardio at end.
+9793ee92,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-01T17:20:00,40,Cardio,Shoulders,1,110,141,388,6,High,False,,84.0,34.4,94.8,59,Hit a rep PR.
+ce13d54c,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-04T18:45:00,42,Cardio,Full Body,2,118,147,407,5,High,False,,84.1,34.2,94.0,59,Good pump today.
+5cff481e,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-07T12:00:00,82,Hypertrophy,Core,12,103,135,674,5,High,False,,83.6,33.6,97.7,59,DOMS from legs.
+fd50f505,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-08T17:20:00,67,Strength,Full Body,6,95,119,418,5,Low,False,,83.6,34.1,96.7,59,Felt strong on compounds.
+fb225a2f,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-09T18:05:00,41,Cardio,Core,1,100,124,333,7,Low,False,,83.3,34.2,97.7,59,Good pump today.
+e7796559,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-11T19:30:00,27,HIIT,Legs,10,107,142,285,7,Medium,False,,83.4,34.5,96.9,59,Hit a rep PR.
+992d1725,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-14T07:00:00,89,Hypertrophy,Back,6,106,125,729,6,High,False,,83.0,33.7,95.2,59,Good pump today.
+d80e48a8,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-15T19:05:00,81,Hypertrophy,Core,12,99,128,644,7,Medium,False,,82.9,34.9,95.2,59,Felt strong on compounds.
+a5eef96a,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-16T07:30:00,29,HIIT,Core,10,103,128,274,7,Low,False,,82.7,34.4,96.8,59,Good pump today.
+91cf43b1,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-18T18:30:00,83,Hypertrophy,Back,7,124,140,639,8,High,False,,83.1,33.5,95.4,59,Tried new gym location.
+69fa44ca,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-20T18:20:00,23,HIIT,Back,10,99,130,242,7,Low,False,,82.8,34.1,95.4,59,Tight on time.
+c0fcf858,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-21T18:10:00,65,Mixed,Arms,8,101,148,470,8,Low,False,,83.3,34.0,95.4,59,Felt strong on compounds.
+52a4aaa8,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-22T07:10:00,51,Mixed,Back,10,100,127,381,7,Low,False,,83.1,33.8,94.9,59,"Busy gym, had to swap exercises."
+cb177d02,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-24T17:00:00,86,Hypertrophy,Chest,12,103,152,616,8,Low,False,,82.9,33.6,94.9,59,Good pump today.
+a7e0c8da,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-26T12:30:00,76,Hypertrophy,Chest,11,91,133,587,6,High,True,,82.6,34.0,92.6,59,Added steady-state cardio at end.
+8fca567e,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-28T18:05:00,41,Cardio,Arms,2,91,125,381,7,Medium,False,,82.6,34.0,97.1,59,Used lifting straps.
+68b2332d,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-07-29T18:30:00,28,HIIT,Chest,8,102,129,303,10,Medium,True,Chloe,82.3,33.5,95.0,59,"Slept poorly, kept it light."
+a47aac0b,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-08-02T19:05:00,52,Mixed,Chest,7,110,128,429,6,Medium,False,,82.6,33.1,96.4,59,Added steady-state cardio at end.
+dfe19f05,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-08-03T18:15:00,25,Mobility,Back,3,77,95,116,4,High,True,Marcus,82.6,33.3,96.3,59,Hit a rep PR.
+6c75adee,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-08-04T17:20:00,81,Hypertrophy,Legs,8,98,137,629,8,Low,False,,82.4,33.9,96.3,59,Focused on form.
+05e3589d,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-08-12T07:10:00,68,Strength,Core,9,96,140,470,7,High,False,,82.2,33.5,95.6,59,Felt strong on compounds.
+8d25d58e,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-08-13T12:30:00,68,Strength,Core,5,98,118,494,6,High,False,,82.1,33.3,95.5,59,Added steady-state cardio at end.
+eaf4664f,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-08-15T17:30:00,43,Cardio,Legs,2,102,130,372,6,Medium,False,,81.6,33.9,95.6,59,Felt strong on compounds.
+f8809e3e,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-08-18T12:10:00,83,Strength,Full Body,5,87,126,567,4,Medium,False,,81.7,33.0,96.9,59,DOMS from legs.
+a8c87790,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-08-19T17:45:00,26,HIIT,Core,10,107,146,298,6,Medium,False,,81.2,33.2,95.8,59,Tried new gym location.
+a5216e08,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-08-21T19:15:00,82,Hypertrophy,Shoulders,12,96,125,647,6,Medium,False,,81.7,33.4,97.8,59,Used lifting straps.
+5f6c29b9,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-08-22T19:45:00,78,Strength,Core,8,92,114,510,7,Low,False,,81.6,33.4,96.6,59,Hit a rep PR.
+251f71e6,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-08-24T07:15:00,29,HIIT,Back,7,108,147,333,7,High,False,,81.3,32.8,93.1,59,Good pump today.
+8b5f86a2,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-08-29T19:45:00,49,Cardio,Legs,2,114,131,434,5,Medium,False,,81.3,33.2,94.9,59,Used lifting straps.
+124428a2,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-09-03T18:00:00,44,Cardio,Core,1,118,161,391,6,High,False,,81.4,33.6,97.7,59,"Slept poorly, kept it light."
+fae2177d,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-09-05T18:45:00,39,Cardio,Shoulders,2,120,147,362,7,Medium,False,,81.2,33.0,96.8,59,Felt strong on compounds.
+b4e4bd19,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-09-07T18:30:00,24,Mobility,Legs,4,78,120,107,7,High,True,,80.1,33.2,93.4,59,Tight on time.
+5af68b55,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-09-08T19:00:00,78,Hypertrophy,Core,9,96,123,534,7,Low,False,,80.9,32.6,96.6,59,"Slept poorly, kept it light."
+97000b04,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-09-09T19:05:00,48,Cardio,Core,2,104,152,391,6,Low,False,,80.7,33.4,97.0,59,Used lifting straps.
+bf3ba38d,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-09-12T18:05:00,45,Cardio,Shoulders,2,91,116,362,4,Low,False,,80.7,32.8,93.8,59,"Busy gym, had to swap exercises."
+8672b1cc,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-09-13T07:45:00,43,Cardio,Back,1,102,120,360,5,Medium,False,,80.5,33.0,95.0,59,Felt strong on compounds.
+cba1eae6,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-09-15T12:15:00,39,Cardio,Back,2,99,115,365,5,High,False,,80.5,32.6,95.0,59,DOMS from legs.
+7cbabfce,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-09-16T17:00:00,42,Cardio,Shoulders,1,90,134,380,7,Medium,False,,80.2,33.1,95.2,59,Used lifting straps.
+56818795,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-09-17T18:10:00,28,HIIT,Full Body,6,101,133,296,8,Low,False,,80.3,32.5,94.8,59,Felt strong on compounds.
+7f893456,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-09-21T19:30:00,28,HIIT,Arms,6,108,125,295,8,Medium,False,,80.0,31.8,93.7,59,Felt strong on compounds.
+681f4905,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-09-24T17:05:00,79,Strength,Legs,9,78,97,558,6,Medium,False,,80.3,32.4,94.1,59,Tried new gym location.
+c3b01c8f,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-09-26T12:15:00,35,Cardio,Back,2,86,125,271,6,Low,False,,80.0,32.8,93.9,59,Used lifting straps.
+fa17ca7c,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-09-27T19:45:00,40,Cardio,Legs,2,101,122,355,6,Medium,False,,80.4,32.8,96.4,59,"Slept poorly, kept it light."
+5bbeb05f,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-09-29T17:10:00,83,Hypertrophy,Full Body,11,88,129,598,6,Low,False,,79.8,32.4,95.6,59,DOMS from legs.
+6dca96c2,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-09-30T18:00:00,49,Cardio,Full Body,2,107,135,403,6,Low,False,,79.5,31.7,95.2,59,Felt strong on compounds.
+2ae9e7b9,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-10-01T18:10:00,31,Cardio,Chest,1,101,144,286,7,Medium,False,,80.3,32.6,95.9,59,Hit a rep PR.
+f4d37156,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-10-02T18:30:00,24,HIIT,Arms,8,111,134,230,8,Low,False,,80.1,32.6,96.5,59,DOMS from legs.
+a57e2912,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-10-04T17:30:00,31,HIIT,Back,8,118,158,317,8,Low,False,,79.7,32.7,93.9,59,Good pump today.
+45f149c0,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-10-05T12:45:00,28,HIIT,Legs,8,100,137,304,7,High,False,,79.4,32.0,96.1,59,Added steady-state cardio at end.
+c21708dc,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-10-06T19:15:00,47,Cardio,Arms,1,104,128,420,4,Medium,False,,79.5,32.3,94.5,59,DOMS from legs.
+7a239d6e,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-10-11T06:45:00,45,Mixed,Legs,8,96,130,394,5,High,False,,79.6,32.7,95.2,59,"Busy gym, had to swap exercises."
+a3418fdc,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-10-12T17:30:00,59,Cardio,Back,2,91,133,539,6,High,False,,79.1,32.6,97.3,59,Added steady-state cardio at end.
+58e7b520,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-10-13T12:45:00,43,Cardio,Back,2,105,140,396,7,Medium,False,,79.1,31.9,95.9,59,"Busy gym, had to swap exercises."
+1e5fedc8,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-10-14T18:30:00,50,Cardio,Chest,1,102,138,438,6,Medium,False,,78.8,32.4,94.0,59,Good pump today.
+12d851d2,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-10-16T19:10:00,76,Strength,Chest,6,109,147,503,5,Medium,False,,79.1,32.7,96.6,59,Tight on time.
+442b1a69,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-10-18T07:45:00,60,Mixed,Shoulders,10,105,135,465,8,High,False,,78.9,31.6,93.6,59,Good pump today.
+d8ad6fd2,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-10-19T17:30:00,58,Mixed,Legs,6,96,113,443,9,Medium,False,,78.4,32.5,95.4,59,Felt strong on compounds.
+f273a2d1,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-10-20T12:30:00,71,Hypertrophy,Chest,10,88,119,535,6,Low,False,,78.9,31.6,94.7,59,Good pump today.
+34da5975,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-10-21T18:45:00,91,Hypertrophy,Arms,10,101,142,693,9,Low,True,,79.0,31.5,94.8,59,Tried new gym location.
+b97f850d,U005,Ella,F,37,Beginner,Fat Loss,Manchester,2025-06-07,2025-10-25T17:15:00,23,HIIT,Back,6,108,126,269,7,Medium,False,,79.6,31.7,93.4,59,"Slept poorly, kept it light."
+a93d21ac,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-06-09T19:00:00,82,Strength,Core,5,122,144,585,7,Medium,False,,75.9,18.6,84.9,66,Hit a rep PR.
+7e335b3b,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-06-10T18:45:00,47,Cardio,Legs,1,99,140,441,5,Medium,True,,76.4,18.8,86.7,66,Hit a rep PR.
+ce35d79e,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-06-11T18:15:00,83,Hypertrophy,Chest,12,100,131,670,6,High,False,,76.4,18.7,85.9,66,"Busy gym, had to swap exercises."
+c2b6b84f,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-06-12T19:45:00,73,Strength,Legs,6,112,144,498,6,Low,False,,75.8,19.0,84.6,66,Tight on time.
+59c583de,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-06-13T17:00:00,25,HIIT,Legs,8,109,144,241,7,Low,False,,75.6,18.3,82.0,66,"Slept poorly, kept it light."
+361b94c6,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-06-15T18:05:00,73,Mixed,Legs,10,98,142,570,7,Low,False,,76.7,18.9,82.0,66,"Busy gym, had to swap exercises."
+bf037552,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-06-16T07:15:00,84,Strength,Shoulders,8,93,123,515,7,Low,False,,76.7,19.6,84.9,66,"Busy gym, had to swap exercises."
+7b077ac1,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-06-20T07:30:00,66,Mixed,Core,6,116,147,496,6,Medium,False,,76.1,19.4,83.6,66,Added steady-state cardio at end.
+8cc5b9bc,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-06-21T19:30:00,39,Cardio,Arms,1,109,141,330,5,Medium,False,,76.2,19.7,87.5,66,"Busy gym, had to swap exercises."
+d8e0938a,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-06-22T17:00:00,45,Cardio,Full Body,1,116,139,429,5,Medium,False,,76.0,19.1,83.7,66,Good pump today.
+8c236137,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-06-25T18:30:00,97,Hypertrophy,Back,9,112,155,818,6,High,False,,76.1,19.9,84.0,66,Tried new gym location.
+1427a1dd,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-06-27T17:45:00,76,Hypertrophy,Chest,11,101,138,590,6,Low,False,,75.8,19.3,85.9,66,Added steady-state cardio at end.
+6857dcbf,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-06-28T19:45:00,82,Strength,Legs,7,96,131,552,7,Low,True,Marcus,76.5,19.4,84.4,66,DOMS from legs.
+ff1d789e,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-06-29T17:20:00,85,Hypertrophy,Chest,9,107,144,597,4,Low,False,,76.6,19.4,82.7,66,"Slept poorly, kept it light."
+7c0554c3,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-06-30T17:00:00,75,Strength,Arms,9,99,127,515,6,High,False,,76.1,18.7,83.8,66,DOMS from legs.
+52c73f4c,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-02T12:30:00,71,Strength,Core,5,81,107,520,8,Medium,False,,76.1,19.2,84.5,66,Good pump today.
+225f5a3f,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-03T18:20:00,70,Strength,Shoulders,5,107,143,479,6,Low,False,,76.3,18.7,83.4,66,Hit a rep PR.
+aec0a48a,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-04T06:10:00,60,Mixed,Legs,9,104,124,454,6,Medium,False,,75.8,19.2,84.8,66,"Slept poorly, kept it light."
+9f84c021,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-05T06:05:00,26,HIIT,Full Body,9,115,146,269,5,Medium,True,Marcus,76.5,19.8,84.4,66,Hit a rep PR.
+934971e4,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-06T12:45:00,40,Cardio,Chest,2,110,135,343,5,Medium,True,Evan,76.4,18.9,85.5,66,Added steady-state cardio at end.
+3287c414,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-09T17:20:00,70,Hypertrophy,Arms,11,103,120,550,8,High,True,,76.8,19.6,84.6,66,Used lifting straps.
+808b5752,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-14T18:05:00,77,Hypertrophy,Legs,10,117,161,593,7,Medium,False,,76.2,19.5,82.8,66,Used lifting straps.
+9814fe99,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-16T19:45:00,63,Strength,Legs,8,99,135,436,8,Medium,False,,76.5,19.5,83.6,66,Focused on form.
+deae2c24,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-17T18:30:00,82,Hypertrophy,Legs,11,113,145,605,5,Low,False,,76.5,19.0,83.0,66,Tried new gym location.
+3ba6c83c,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-18T12:05:00,73,Strength,Legs,6,115,144,505,5,Medium,False,,76.7,20.0,84.9,66,"Busy gym, had to swap exercises."
+77c3a361,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-22T18:45:00,93,Hypertrophy,Full Body,11,120,141,769,7,Medium,False,,76.3,18.7,84.5,66,DOMS from legs.
+ac3db607,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-24T12:45:00,79,Strength,Chest,5,118,156,571,5,Medium,False,,76.4,19.1,82.4,66,Tried new gym location.
+4c4c09a1,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-26T06:10:00,77,Strength,Legs,7,124,147,501,8,Medium,False,,76.2,19.4,84.1,66,Tight on time.
+66387ec1,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-27T19:00:00,79,Hypertrophy,Back,11,114,141,633,10,Medium,False,,76.5,19.8,85.1,66,Hit a rep PR.
+ec75871f,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-28T18:45:00,86,Hypertrophy,Shoulders,9,105,142,727,8,Medium,False,,76.3,19.1,83.5,66,Good pump today.
+f05301e2,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-29T19:00:00,75,Hypertrophy,Core,12,112,144,593,5,Medium,False,,76.5,18.9,83.3,66,Tried new gym location.
+80e9bcd1,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-07-31T18:30:00,37,Cardio,Back,1,121,136,339,5,Medium,False,,76.5,19.8,87.1,66,Tried new gym location.
+e55c63c9,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-03T06:10:00,78,Strength,Arms,7,106,150,562,6,Medium,True,,76.5,19.1,83.4,66,"Busy gym, had to swap exercises."
+a1511803,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-04T06:10:00,54,Cardio,Full Body,2,111,133,503,5,Medium,False,,76.1,19.7,85.0,66,DOMS from legs.
+62a64c67,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-07T17:45:00,66,Mixed,Arms,5,102,139,542,6,Medium,False,,76.5,19.9,86.0,66,Focused on form.
+18842976,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-08T18:15:00,65,Strength,Legs,7,107,137,443,8,Medium,False,,76.7,19.2,82.7,66,Used lifting straps.
+5b382458,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-09T18:20:00,69,Strength,Full Body,7,95,137,469,7,Low,False,,76.6,19.3,84.9,66,Used lifting straps.
+f9aba0c6,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-10T17:45:00,83,Hypertrophy,Legs,6,104,133,627,6,Medium,False,,76.8,19.3,84.0,66,DOMS from legs.
+25e8d58c,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-11T19:15:00,84,Hypertrophy,Legs,10,103,138,713,7,Medium,False,,76.6,18.7,84.1,66,"Busy gym, had to swap exercises."
+73b28f1c,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-12T19:45:00,89,Strength,Full Body,6,101,140,674,5,High,False,,76.6,19.6,86.2,66,"Slept poorly, kept it light."
+25beb16c,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-14T12:45:00,65,Mixed,Core,8,114,132,534,7,Medium,False,,76.3,19.8,84.8,66,Tried new gym location.
+f21a35e2,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-17T06:00:00,75,Strength,Chest,9,103,132,567,7,High,False,,76.6,19.0,84.5,66,Focused on form.
+2f64c48a,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-18T17:30:00,75,Strength,Chest,9,118,151,522,8,Medium,True,Evan,76.9,20.0,86.3,66,Used lifting straps.
+8ec2bb81,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-19T06:45:00,36,Mobility,Chest,5,91,127,157,3,High,False,,76.7,19.0,85.1,66,Used lifting straps.
+c56bcf82,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-20T06:45:00,81,Strength,Core,5,94,124,495,6,Low,False,,76.7,19.0,82.6,66,Hit a rep PR.
+965c3037,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-22T07:15:00,27,HIIT,Legs,7,101,129,312,6,Medium,False,,76.7,19.6,84.0,66,Tried new gym location.
+44da3cca,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-24T19:05:00,91,Hypertrophy,Arms,10,119,139,783,6,High,False,,76.4,18.7,85.0,66,Hit a rep PR.
+e016d1e2,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-26T18:30:00,74,Hypertrophy,Arms,7,91,123,633,7,Medium,False,,76.7,19.8,83.2,66,Used lifting straps.
+8cc6f233,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-28T19:05:00,77,Hypertrophy,Chest,12,111,131,583,6,Medium,False,,76.8,19.7,83.5,66,Added steady-state cardio at end.
+0a240e2d,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-08-31T18:10:00,65,Hypertrophy,Legs,8,104,135,486,7,Low,False,,76.7,19.4,85.8,66,Hit a rep PR.
+bd31cff8,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-09-02T07:20:00,87,Strength,Shoulders,8,99,129,659,8,High,False,,76.8,19.8,84.8,66,Tight on time.
+ffbf6f0b,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-09-04T18:05:00,69,Strength,Shoulders,6,111,142,516,8,Medium,True,Marcus,76.6,19.1,83.6,66,Hit a rep PR.
+9e158da0,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-09-05T18:30:00,71,Strength,Full Body,7,107,151,425,5,Low,False,,76.6,18.9,84.7,66,Added steady-state cardio at end.
+b0d2840c,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-09-09T18:05:00,66,Strength,Core,6,87,105,506,6,High,False,,76.6,19.3,83.3,66,Tight on time.
+1b7a0f82,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-09-10T18:30:00,71,Strength,Arms,5,101,135,484,6,High,False,,76.9,20.2,85.9,66,Focused on form.
+443350d1,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-09-13T18:05:00,77,Hypertrophy,Arms,9,110,125,617,7,Medium,False,,76.7,19.3,83.5,66,Good pump today.
+b60fd2a7,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-09-15T18:10:00,81,Strength,Legs,9,86,105,582,6,Medium,True,Marcus,76.4,20.0,86.0,66,Used lifting straps.
+9fc92842,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-09-17T18:45:00,68,Strength,Arms,6,107,138,448,6,Medium,False,,76.9,19.7,85.3,66,Good pump today.
+3a29256e,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-09-18T06:45:00,78,Strength,Legs,6,103,122,566,6,Medium,True,Marcus,76.9,19.5,86.0,66,DOMS from legs.
+ca27bdb5,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-09-23T17:15:00,83,Hypertrophy,Chest,11,117,134,668,7,High,False,,76.6,20.3,85.6,66,Tight on time.
+a51c25a6,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-09-24T19:10:00,67,Strength,Shoulders,7,100,118,449,7,Medium,False,,77.2,19.3,86.3,66,DOMS from legs.
+cc761b3e,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-09-27T12:05:00,80,Strength,Core,7,113,134,557,7,Medium,False,,76.9,20.1,83.8,66,Used lifting straps.
+1ea111bc,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-09-28T06:30:00,75,Strength,Back,7,99,121,532,5,High,False,,76.8,19.8,84.6,66,Tried new gym location.
+9c17404f,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-09-29T12:45:00,72,Strength,Full Body,8,98,140,494,8,High,False,,76.8,20.3,85.3,66,"Busy gym, had to swap exercises."
+bc1d5fdc,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-09-30T18:15:00,90,Hypertrophy,Back,7,127,147,706,6,High,False,,76.7,19.6,86.1,66,Used lifting straps.
+99f65466,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-01T07:05:00,81,Strength,Shoulders,9,106,122,564,7,High,False,,76.8,19.8,85.8,66,Felt strong on compounds.
+0c2285ce,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-02T19:30:00,76,Strength,Shoulders,9,103,131,531,6,Medium,False,,77.2,20.1,85.8,66,"Busy gym, had to swap exercises."
+7704c43b,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-04T12:15:00,37,Cardio,Core,1,96,136,326,6,Medium,False,,77.2,20.2,85.9,66,Tight on time.
+3c59f8b8,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-06T18:00:00,82,Strength,Back,9,103,138,570,6,Medium,False,,77.4,19.3,85.2,66,Tried new gym location.
+1d094689,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-07T17:05:00,29,Mobility,Arms,3,82,105,139,4,High,False,,76.9,18.9,84.2,66,DOMS from legs.
+5d1c6abd,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-08T18:00:00,86,Hypertrophy,Core,6,99,127,671,7,High,False,,77.3,20.1,83.7,66,Tried new gym location.
+a8855103,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-10T17:15:00,81,Hypertrophy,Back,12,113,149,692,9,High,False,,76.6,20.2,84.5,66,Good pump today.
+f7188e1f,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-12T07:15:00,36,Mobility,Chest,5,89,121,159,3,Medium,False,,77.4,20.2,85.6,66,Focused on form.
+fdc4063f,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-13T12:00:00,40,Cardio,Arms,1,101,120,370,4,Medium,False,,77.3,20.2,82.9,66,Tried new gym location.
+7547721e,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-16T12:45:00,77,Strength,Back,8,111,139,590,7,High,False,,77.3,19.7,85.2,66,Tight on time.
+74123a71,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-17T19:15:00,62,Mixed,Shoulders,6,92,123,502,7,Medium,False,,76.8,20.0,85.1,66,Added steady-state cardio at end.
+488d8a26,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-18T07:20:00,66,Strength,Legs,9,107,142,469,10,Medium,False,,76.9,20.0,82.5,66,Focused on form.
+8b74c59e,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-19T18:05:00,39,Cardio,Core,1,126,154,340,5,Medium,False,,77.3,19.9,84.9,66,Felt strong on compounds.
+e868146a,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-20T19:45:00,85,Hypertrophy,Chest,8,112,133,623,5,Low,False,,77.6,20.1,84.1,66,Used lifting straps.
+eb3c2d7b,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-22T06:15:00,79,Hypertrophy,Full Body,10,103,141,559,7,Low,False,,77.0,19.9,84.1,66,Felt strong on compounds.
+47904d4d,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-24T19:45:00,70,Strength,Core,9,117,133,495,6,Medium,False,,77.2,19.8,84.2,66,Used lifting straps.
+3adea31e,U006,Femi,M,32,Intermediate,Muscle Gain,Manchester,2025-06-08,2025-10-25T18:30:00,79,Strength,Back,5,100,128,575,7,High,False,,76.9,19.6,84.3,66,Tight on time.
+725267c8,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-06-18T18:30:00,31,Mobility,Legs,5,96,136,124,5,Low,False,,69.6,27.6,90.1,70,Hit a rep PR.
+5166b0bc,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-06-20T18:05:00,81,Strength,Legs,6,112,128,565,7,Medium,False,,70.1,29.6,91.7,70,DOMS from legs.
+e3d773d7,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-06-21T06:10:00,66,Strength,Core,9,110,140,449,7,High,False,,69.8,28.9,91.2,70,Used lifting straps.
+3e667cc9,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-06-26T19:20:00,45,Cardio,Core,2,117,149,383,5,Medium,False,,70.1,28.7,93.0,70,Felt strong on compounds.
+8befc8fe,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-06-27T17:10:00,81,Hypertrophy,Full Body,11,118,136,630,6,Medium,False,,69.8,28.1,92.7,70,Focused on form.
+e2b9e749,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-06-29T19:20:00,45,Cardio,Back,2,104,138,358,6,Low,False,,69.6,27.9,91.2,70,Good pump today.
+1fa8ed5f,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-07-01T17:10:00,77,Hypertrophy,Full Body,11,108,139,574,7,Medium,False,,70.0,28.3,92.7,70,Added steady-state cardio at end.
+2b5b7eeb,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-07-02T18:05:00,80,Hypertrophy,Back,7,116,140,624,7,Low,False,,69.7,28.6,92.5,70,Good pump today.
+c1ecdba3,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-07-05T07:00:00,73,Strength,Full Body,8,101,137,545,6,High,False,,69.8,28.2,91.4,70,Felt strong on compounds.
+37265317,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-07-10T18:15:00,26,Mobility,Core,5,87,115,114,5,Low,False,,69.5,28.7,91.7,70,Tight on time.
+fc75b80b,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-07-11T17:45:00,24,HIIT,Shoulders,10,113,150,267,10,High,True,Amir,69.5,28.2,89.3,70,Focused on form.
+96e86eba,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-07-14T19:45:00,56,Mixed,Arms,8,98,129,386,9,Low,False,,69.8,28.8,91.2,70,Felt strong on compounds.
+7dbddab7,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-07-16T18:10:00,62,Hypertrophy,Arms,8,104,135,486,6,Low,False,,69.7,28.1,92.2,70,Used lifting straps.
+d9f521c8,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-07-18T17:05:00,70,Mixed,Core,7,115,143,558,7,Medium,False,,69.3,28.1,88.8,70,Tight on time.
+e3f0cf20,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-07-20T17:20:00,88,Hypertrophy,Core,6,110,149,709,6,Medium,False,,69.4,28.1,91.2,70,DOMS from legs.
+ff920847,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-07-25T19:05:00,77,Hypertrophy,Shoulders,12,113,138,537,6,Low,True,,69.8,27.7,90.6,70,Added steady-state cardio at end.
+5c0f4c58,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-07-30T18:10:00,31,Mobility,Core,3,87,128,138,4,Medium,False,,69.4,27.6,90.1,70,"Busy gym, had to swap exercises."
+65805a80,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-08-02T06:45:00,56,Mixed,Chest,8,108,137,468,7,High,False,,69.3,28.2,89.5,70,Good pump today.
+448ba408,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-08-03T17:20:00,92,Strength,Shoulders,5,115,156,629,6,Medium,False,,68.5,27.9,91.6,70,Used lifting straps.
+fb8540a6,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-08-06T18:30:00,36,Cardio,Legs,2,102,134,318,4,Low,False,,69.3,27.6,89.6,70,Added steady-state cardio at end.
+bdec860b,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-08-09T19:15:00,68,Hypertrophy,Core,7,112,136,512,7,Medium,False,,68.8,27.7,91.8,70,Focused on form.
+df8461c2,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-08-12T06:10:00,39,Cardio,Full Body,2,118,148,356,3,High,False,,69.8,27.5,91.3,70,Tried new gym location.
+3d8eda2f,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-08-15T17:15:00,49,Mixed,Arms,9,108,157,366,8,Low,False,,69.0,27.7,89.3,70,"Busy gym, had to swap exercises."
+5c230b53,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-08-16T07:00:00,72,Hypertrophy,Full Body,8,123,152,617,6,High,False,,69.5,27.3,89.9,70,"Slept poorly, kept it light."
+be3b8f36,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-08-17T12:15:00,70,Strength,Shoulders,9,94,109,515,7,High,True,,69.2,27.3,92.2,70,DOMS from legs.
+e0ea7c7f,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-08-18T18:00:00,76,Strength,Full Body,8,110,151,538,6,Medium,False,,68.9,27.3,88.1,70,Tight on time.
+83384c4b,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-08-22T07:20:00,72,Strength,Chest,7,112,156,536,7,Medium,False,,69.0,27.3,91.5,70,Added steady-state cardio at end.
+5e7ba5d1,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-08-24T17:45:00,27,HIIT,Back,10,106,141,287,6,Medium,True,,68.7,27.2,88.3,70,Tried new gym location.
+9a24c66e,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-08-31T19:15:00,39,Cardio,Legs,2,104,136,374,3,Medium,False,,69.2,27.4,90.0,70,Added steady-state cardio at end.
+0881a106,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-09-01T17:15:00,76,Strength,Arms,6,104,136,549,6,Medium,False,,68.9,27.5,90.5,70,DOMS from legs.
+19c5ac45,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-09-02T19:15:00,39,Cardio,Arms,1,101,139,324,4,Low,False,,68.8,26.9,88.9,70,Good pump today.
+bcced06d,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-09-05T07:20:00,73,Hypertrophy,Back,11,117,143,575,6,Medium,False,,68.7,27.7,91.2,70,Focused on form.
+78b9ca57,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-09-07T12:00:00,80,Hypertrophy,Arms,12,112,137,656,6,Medium,False,,68.8,26.9,90.4,70,Tried new gym location.
+aef0f24e,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-09-11T17:45:00,67,Strength,Full Body,8,102,141,469,8,High,False,,69.1,27.3,92.2,70,Used lifting straps.
+c8ca9b5f,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-09-13T17:10:00,39,Mobility,Chest,4,101,124,180,5,High,False,,69.1,27.0,92.9,70,Tight on time.
+c0fab73f,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-09-14T07:15:00,86,Hypertrophy,Chest,7,106,127,687,6,Medium,True,Marcus,68.8,26.2,88.6,70,Good pump today.
+5d75b037,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-09-15T17:45:00,24,HIIT,Full Body,6,108,155,255,8,Low,False,,68.9,26.6,91.0,70,Felt strong on compounds.
+93ff22f9,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-09-16T07:45:00,27,HIIT,Core,6,115,155,309,10,High,True,Marcus,68.2,26.8,90.0,70,Focused on form.
+b79e4373,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-09-18T18:15:00,79,Hypertrophy,Shoulders,11,100,128,585,7,Low,False,,69.0,25.8,92.1,70,Tried new gym location.
+defe66ea,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-09-19T19:15:00,44,Cardio,Back,1,104,150,381,5,Low,False,,68.6,27.0,90.4,70,DOMS from legs.
+04322437,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-09-21T07:15:00,87,Hypertrophy,Legs,6,114,150,658,8,Medium,False,,68.4,26.2,88.8,70,"Slept poorly, kept it light."
+642b4313,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-09-24T06:45:00,81,Strength,Shoulders,6,112,146,553,8,High,True,,68.6,26.6,91.6,70,Used lifting straps.
+5a45d8f9,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-09-25T18:15:00,71,Strength,Back,6,105,121,506,8,High,False,,68.8,26.8,90.8,70,Used lifting straps.
+f803b86f,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-09-26T17:45:00,47,Mixed,Back,10,109,134,397,4,High,False,,68.5,27.0,89.7,70,"Busy gym, had to swap exercises."
+c8c12e32,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-09-28T17:10:00,40,Cardio,Core,2,107,144,348,6,Low,False,,68.2,25.6,89.7,70,Focused on form.
+0288bade,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-10-02T07:00:00,24,HIIT,Arms,8,128,155,276,9,Medium,False,,68.2,26.4,91.5,70,Hit a rep PR.
+9efc35d5,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-10-05T18:20:00,45,Cardio,Core,1,95,116,385,5,Low,True,Priya,68.4,26.8,90.8,70,Added steady-state cardio at end.
+9cdf2a57,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-10-09T17:45:00,81,Hypertrophy,Chest,10,102,134,627,4,Medium,False,,68.7,26.9,92.4,70,Hit a rep PR.
+4d739e01,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-10-11T17:00:00,27,HIIT,Back,10,114,139,281,7,Medium,False,,68.8,26.5,90.3,70,"Busy gym, had to swap exercises."
+1f91408c,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-10-12T18:10:00,77,Strength,Arms,5,111,144,560,8,Medium,True,Priya,68.6,26.3,91.1,70,"Busy gym, had to swap exercises."
+c267a9ac,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-10-13T19:05:00,65,Strength,Arms,8,110,126,473,6,High,False,,68.3,26.4,90.1,70,Used lifting straps.
+484d41bd,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-10-19T18:00:00,77,Strength,Chest,6,103,133,570,4,Medium,False,,68.6,26.2,88.9,70,Added steady-state cardio at end.
+67e919c5,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-10-21T18:15:00,78,Strength,Core,9,99,131,536,4,Low,False,,68.2,25.5,87.5,70,"Slept poorly, kept it light."
+3464fd50,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-10-23T19:00:00,77,Strength,Chest,6,101,147,468,7,Low,False,,68.4,26.2,90.1,70,Hit a rep PR.
+0a0560b1,U007,Grace,F,45,Intermediate,Recomp,London,2025-06-17,2025-10-26T18:05:00,34,Mobility,Full Body,6,86,114,132,3,Low,False,,68.3,25.5,88.9,70,Used lifting straps.
+1e043d35,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-06-20T07:05:00,82,Hypertrophy,Full Body,7,94,114,619,7,Medium,False,,87.7,22.8,87.7,60,Added steady-state cardio at end.
+a923bea3,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-06-22T19:10:00,29,HIIT,Shoulders,9,119,146,274,8,Low,False,,88.2,22.2,85.7,60,Used lifting straps.
+bf3571eb,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-06-23T12:20:00,46,Cardio,Full Body,2,100,118,443,8,High,False,,87.7,21.3,83.7,60,Added steady-state cardio at end.
+2f8f2902,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-06-24T19:00:00,87,Hypertrophy,Arms,7,91,138,679,6,Low,False,,88.1,22.0,86.5,60,Felt strong on compounds.
+048df21f,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-06-25T17:05:00,44,Cardio,Full Body,2,103,136,408,7,Medium,False,,87.6,22.1,86.3,60,DOMS from legs.
+3f8afd7e,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-06-27T17:05:00,71,Hypertrophy,Back,8,115,133,529,6,Medium,False,,88.2,21.8,87.4,60,Used lifting straps.
+bf3d15d1,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-06-28T17:05:00,35,Cardio,Back,2,112,136,309,6,Low,False,,87.9,21.7,86.0,60,Used lifting straps.
+e193ef23,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-06-30T19:00:00,39,Cardio,Arms,2,101,118,343,8,Medium,True,,87.7,22.7,86.5,60,Good pump today.
+993b7833,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-01T17:45:00,80,Strength,Core,6,96,142,514,6,Low,False,,88.4,21.8,85.5,60,Felt strong on compounds.
+bc0c1654,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-03T18:30:00,78,Strength,Arms,9,109,126,535,5,Medium,False,,88.0,22.1,86.3,60,Hit a rep PR.
+4b464c2f,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-04T12:10:00,77,Strength,Legs,5,108,149,532,5,Medium,False,,88.5,21.7,85.6,60,Felt strong on compounds.
+87e8be47,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-05T18:10:00,37,Cardio,Back,1,114,144,317,8,Medium,False,,87.9,22.0,86.2,60,Added steady-state cardio at end.
+2c05c6ef,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-06T17:20:00,49,Cardio,Back,1,82,97,436,8,Medium,True,,87.9,22.3,86.1,60,Good pump today.
+7875d528,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-07T18:20:00,70,Hypertrophy,Legs,7,105,127,570,5,Medium,False,,87.9,22.2,87.7,60,Tried new gym location.
+fa0bf132,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-08T06:10:00,70,Strength,Core,8,75,96,513,6,High,False,,88.0,23.1,86.8,60,Felt strong on compounds.
+781c7e90,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-09T19:05:00,52,Cardio,Core,1,102,134,467,3,Medium,False,,87.9,21.9,87.3,60,Hit a rep PR.
+d7c5ec61,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-11T18:00:00,79,Strength,Full Body,9,104,122,543,8,Medium,False,,87.8,22.8,86.4,60,DOMS from legs.
+3ee343dd,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-12T18:20:00,79,Strength,Full Body,5,91,137,523,5,Low,False,,87.8,22.0,87.4,60,DOMS from legs.
+15e902ce,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-13T06:05:00,64,Strength,Full Body,9,102,124,475,6,High,False,,88.3,22.6,85.7,60,Tried new gym location.
+dc835ed8,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-15T19:00:00,24,HIIT,Full Body,8,119,140,254,8,Medium,False,,87.6,21.8,86.3,60,Tight on time.
+1bb80169,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-16T19:30:00,81,Hypertrophy,Full Body,6,104,128,567,8,Low,False,,87.9,22.0,84.8,60,Used lifting straps.
+d325569d,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-18T19:20:00,83,Strength,Arms,7,93,132,590,9,High,False,,87.9,22.4,86.9,60,"Busy gym, had to swap exercises."
+0c801d43,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-19T06:30:00,75,Hypertrophy,Back,10,106,145,648,6,High,False,,87.7,22.7,88.4,60,Tried new gym location.
+6e204f83,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-20T12:15:00,26,HIIT,Chest,10,105,152,269,8,Low,False,,87.9,22.0,82.8,60,"Busy gym, had to swap exercises."
+4be57e82,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-22T17:15:00,76,Strength,Full Body,9,94,124,568,7,High,False,,87.8,22.1,86.5,60,Hit a rep PR.
+c4be718a,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-24T17:20:00,27,Mobility,Legs,6,86,133,112,3,Low,False,,88.2,22.2,87.4,60,Tried new gym location.
+cf95ea1f,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-25T17:30:00,82,Hypertrophy,Core,7,109,132,607,6,Low,False,,88.0,21.7,87.0,60,"Busy gym, had to swap exercises."
+16519777,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-26T17:20:00,72,Strength,Core,6,96,119,471,5,Low,False,,87.8,22.3,85.3,60,Focused on form.
+5b8e7409,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-29T19:10:00,28,HIIT,Full Body,8,112,135,297,8,Low,True,Marcus,88.0,21.6,86.9,60,"Slept poorly, kept it light."
+c5432b4e,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-30T07:00:00,74,Hypertrophy,Legs,10,98,128,618,8,Medium,False,,88.2,22.0,83.8,60,Used lifting straps.
+e795992f,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-07-31T12:30:00,80,Strength,Core,8,98,127,576,9,High,False,,87.9,22.5,86.9,60,Added steady-state cardio at end.
+7d6fe05a,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-06T17:45:00,64,Strength,Back,5,101,139,447,6,Medium,False,,87.9,22.0,86.9,60,Tight on time.
+46ced302,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-07T19:05:00,41,Cardio,Chest,1,91,119,317,8,Low,False,,88.5,21.7,83.9,60,Used lifting straps.
+d0dfad32,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-10T19:15:00,44,Cardio,Shoulders,2,98,126,422,4,High,False,,88.4,21.8,87.4,60,Used lifting straps.
+51cf2f80,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-11T18:20:00,62,Strength,Chest,8,98,119,418,5,Low,False,,87.9,22.3,85.7,60,Hit a rep PR.
+10a57a0e,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-13T18:15:00,82,Strength,Core,5,98,115,566,6,High,False,,88.0,22.1,86.8,60,Focused on form.
+19327b1f,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-14T19:45:00,85,Hypertrophy,Arms,6,109,143,726,5,Medium,False,,87.9,22.1,86.7,60,Added steady-state cardio at end.
+4873baba,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-15T07:20:00,74,Hypertrophy,Back,9,94,121,535,6,Low,False,,88.0,22.3,86.6,60,Felt strong on compounds.
+9e142ef8,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-17T07:20:00,29,HIIT,Shoulders,6,111,144,287,7,Low,False,,88.1,22.0,85.1,60,Tried new gym location.
+22c6fde5,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-18T19:45:00,90,Strength,Full Body,8,92,139,586,8,Low,False,,88.2,22.1,86.5,60,DOMS from legs.
+509b5e55,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-19T18:30:00,30,Mobility,Shoulders,6,81,103,132,3,Medium,True,Priya,87.9,21.8,86.6,60,Good pump today.
+381ced6c,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-20T18:30:00,75,Strength,Core,5,108,138,545,5,High,False,,87.7,21.5,86.7,60,Added steady-state cardio at end.
+0ff1b8bd,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-21T12:05:00,70,Strength,Back,5,106,125,479,8,High,False,,88.2,22.1,87.1,60,Felt strong on compounds.
+ec3f006b,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-22T18:15:00,75,Hypertrophy,Shoulders,9,98,115,617,7,Medium,True,,88.1,22.3,85.8,60,Hit a rep PR.
+71169e53,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-25T19:10:00,23,HIIT,Chest,7,107,136,239,7,Medium,True,Amir,88.3,21.7,85.9,60,Felt strong on compounds.
+3895ed70,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-27T07:00:00,27,HIIT,Legs,8,101,120,309,6,Medium,False,,87.9,21.5,86.6,60,"Slept poorly, kept it light."
+81dc32b1,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-28T17:05:00,74,Hypertrophy,Full Body,10,97,129,626,8,Medium,False,,87.9,21.5,86.7,60,"Busy gym, had to swap exercises."
+8221d21f,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-29T18:10:00,80,Strength,Shoulders,9,101,142,592,8,Medium,True,,88.1,22.2,88.5,60,"Busy gym, had to swap exercises."
+2cc5e799,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-08-31T07:45:00,82,Hypertrophy,Arms,7,97,133,636,6,High,False,,87.7,22.0,86.3,60,Felt strong on compounds.
+fb72f813,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-01T07:30:00,94,Hypertrophy,Chest,9,104,143,724,6,Low,False,,88.3,22.4,85.2,60,Tight on time.
+3b0dd12e,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-02T17:45:00,63,Mixed,Legs,6,100,116,507,5,Medium,False,,88.2,22.4,86.4,60,DOMS from legs.
+48744c99,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-03T18:15:00,83,Hypertrophy,Full Body,8,98,129,709,7,High,False,,87.7,21.9,87.8,60,"Slept poorly, kept it light."
+886363c1,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-04T06:30:00,42,Cardio,Back,2,109,128,372,7,Medium,False,,87.9,21.9,87.5,60,Good pump today.
+290eade5,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-05T12:10:00,72,Strength,Legs,9,106,134,518,6,High,False,,87.7,21.2,84.2,60,"Slept poorly, kept it light."
+288b1e62,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-06T18:10:00,50,Mixed,Core,6,113,138,401,7,Medium,False,,87.8,21.6,86.5,60,Tried new gym location.
+615892aa,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-07T17:15:00,81,Hypertrophy,Full Body,9,116,131,658,8,Medium,False,,87.5,22.3,86.7,60,Good pump today.
+6abcea9b,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-09T17:45:00,28,HIIT,Legs,10,102,123,291,8,Low,False,,87.6,22.0,85.8,60,DOMS from legs.
+54aa3c61,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-10T18:05:00,34,Mobility,Core,5,86,109,147,3,Medium,True,Priya,88.3,22.2,85.9,60,Tight on time.
+3c556f26,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-12T18:45:00,85,Strength,Chest,7,104,119,596,6,Medium,False,,88.0,22.0,87.2,60,Felt strong on compounds.
+5b5956f5,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-14T12:00:00,79,Strength,Shoulders,7,97,132,519,6,Medium,False,,87.6,22.9,85.8,60,"Busy gym, had to swap exercises."
+4bc5e09d,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-15T07:45:00,68,Strength,Chest,8,94,124,512,7,High,False,,88.0,22.1,87.8,60,DOMS from legs.
+f774fec1,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-18T07:10:00,39,Cardio,Arms,2,100,127,321,8,Low,False,,88.1,22.2,84.7,60,"Slept poorly, kept it light."
+286becaf,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-20T18:15:00,69,Strength,Legs,5,100,149,430,8,Low,False,,87.8,21.2,86.5,60,"Slept poorly, kept it light."
+24712e91,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-23T17:00:00,47,Cardio,Chest,2,98,144,365,7,Low,False,,87.7,21.6,87.1,60,Good pump today.
+aff44ad6,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-24T12:10:00,75,Strength,Shoulders,5,97,137,532,5,High,False,,87.5,21.5,86.4,60,Tight on time.
+c75e156b,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-25T07:20:00,76,Strength,Arms,7,100,128,499,6,Medium,False,,87.7,21.9,87.3,60,"Busy gym, had to swap exercises."
+e9c87eb5,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-28T12:00:00,27,HIIT,Arms,9,113,154,306,10,High,True,,88.5,21.3,86.3,60,Added steady-state cardio at end.
+c553ea0f,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-09-30T19:00:00,80,Hypertrophy,Back,11,98,129,702,7,High,False,,87.8,21.3,85.2,60,Tried new gym location.
+68a4d9a8,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-10-01T19:30:00,65,Strength,Back,9,112,128,445,6,Medium,True,,88.0,22.3,86.1,60,Used lifting straps.
+9b040540,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-10-03T17:30:00,70,Strength,Back,6,104,143,500,9,Medium,False,,88.1,22.1,85.4,60,Tight on time.
+4411a584,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-10-04T19:15:00,75,Strength,Core,7,85,121,481,7,Low,False,,88.2,22.0,85.1,60,"Slept poorly, kept it light."
+80d29edd,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-10-06T17:10:00,62,Strength,Legs,9,99,127,394,8,Low,False,,87.9,22.0,87.4,60,"Slept poorly, kept it light."
+66f04071,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-10-08T17:30:00,75,Hypertrophy,Core,8,99,116,625,7,Medium,False,,87.9,22.1,87.3,60,Used lifting straps.
+8ec0b5ad,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-10-09T17:20:00,82,Hypertrophy,Chest,8,102,123,708,9,High,False,,87.8,21.7,85.7,60,Used lifting straps.
+3d3ebde3,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-10-12T18:05:00,36,Mobility,Arms,6,84,115,176,5,High,True,,87.7,22.0,87.8,60,Good pump today.
+ebd1f3ee,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-10-13T18:45:00,71,Hypertrophy,Arms,6,105,144,605,5,Medium,False,,88.0,22.1,90.1,60,Focused on form.
+586e27bf,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-10-14T17:30:00,25,HIIT,Arms,6,103,128,284,7,High,False,,88.4,21.6,85.6,60,"Busy gym, had to swap exercises."
+54941f63,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-10-15T17:10:00,67,Strength,Full Body,7,100,125,481,5,Medium,False,,87.5,22.0,86.6,60,Tight on time.
+6d64e4de,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-10-16T19:15:00,61,Mixed,Arms,5,94,140,434,7,Low,False,,88.0,22.1,85.9,60,Focused on form.
+0f705a7b,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-10-17T17:20:00,63,Hypertrophy,Legs,6,100,124,510,9,High,False,,87.8,22.4,86.5,60,Hit a rep PR.
+e09144f2,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-10-18T17:20:00,71,Strength,Shoulders,8,99,130,503,7,Medium,False,,88.0,22.6,87.9,60,"Busy gym, had to swap exercises."
+c4ed68f3,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-10-19T17:05:00,75,Strength,Shoulders,6,99,141,465,5,Low,False,,88.1,21.8,85.8,60,"Busy gym, had to swap exercises."
+1d1919da,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-10-23T07:00:00,67,Strength,Shoulders,8,112,130,462,6,Medium,False,,88.3,22.1,87.2,60,"Slept poorly, kept it light."
+8df39ad3,U008,Hassan,M,39,Advanced,Strength,Glasgow,2025-06-20,2025-10-25T19:30:00,78,Strength,Arms,8,113,148,539,6,Medium,False,,88.5,21.4,87.6,60,Focused on form.
+830afe5c,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-06-02T17:00:00,85,Hypertrophy,Full Body,10,89,130,651,6,Low,False,,63.9,27.2,91.8,52,Used lifting straps.
+3666a391,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-06-03T17:00:00,73,Strength,Arms,8,88,132,443,8,Low,False,,63.8,26.8,89.9,52,"Busy gym, had to swap exercises."
+9268d943,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-06-06T18:20:00,33,Cardio,Shoulders,1,86,109,265,4,Low,False,,63.5,26.7,90.9,52,"Slept poorly, kept it light."
+26347bd2,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-06-08T18:20:00,69,Strength,Legs,9,99,136,459,7,Medium,False,,63.8,26.3,90.9,52,Added steady-state cardio at end.
+d338f623,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-06-09T18:15:00,50,Cardio,Core,2,117,151,433,7,Medium,False,,63.6,27.1,88.2,52,Used lifting straps.
+10674a27,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-06-11T18:30:00,64,Mixed,Shoulders,9,85,124,516,6,Medium,False,,64.3,26.6,91.4,52,Tried new gym location.
+f362a491,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-06-15T17:05:00,45,Cardio,Legs,1,81,113,389,5,Low,False,,64.3,26.9,91.5,52,Tight on time.
+442cb8de,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-06-16T06:00:00,28,Mobility,Full Body,4,82,109,118,4,Medium,False,,63.7,26.3,89.7,52,"Busy gym, had to swap exercises."
+0f507d35,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-06-17T12:30:00,88,Hypertrophy,Core,10,87,112,683,8,High,False,,63.8,27.2,89.6,52,"Slept poorly, kept it light."
+f51be42c,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-06-19T19:20:00,25,HIIT,Core,9,109,124,272,8,High,False,,64.1,26.8,90.7,52,Tried new gym location.
+29d49a9a,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-06-20T17:30:00,42,Cardio,Chest,2,93,137,373,5,Medium,False,,63.4,26.9,92.0,52,Felt strong on compounds.
+9ece120d,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-06-23T17:15:00,28,Mobility,Back,6,69,91,110,3,Low,False,,64.0,26.1,90.4,52,Added steady-state cardio at end.
+c7e6b395,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-06-25T12:20:00,63,Strength,Legs,8,82,123,403,7,Low,False,,63.6,26.8,86.1,52,DOMS from legs.
+f9562fe5,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-06-27T18:00:00,49,Cardio,Core,2,90,131,468,6,Medium,False,,64.1,26.3,91.1,52,Tight on time.
+7414f5ae,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-07-01T12:45:00,53,Mixed,Arms,8,79,122,425,5,High,False,,63.5,26.4,89.9,52,Hit a rep PR.
+0073fe31,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-07-10T18:20:00,63,Hypertrophy,Legs,10,83,121,520,5,Medium,True,,63.3,25.8,89.6,52,"Slept poorly, kept it light."
+8938a56f,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-07-11T06:00:00,62,Mixed,Shoulders,7,99,128,497,7,Medium,False,,63.7,26.5,88.9,52,Tight on time.
+0b357fef,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-07-12T07:00:00,79,Strength,Arms,6,89,106,553,9,Medium,False,,63.2,25.7,87.0,52,"Slept poorly, kept it light."
+81288f7e,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-07-13T06:20:00,61,Mixed,Core,10,94,109,490,7,High,False,,63.6,26.0,89.0,52,"Slept poorly, kept it light."
+4b931065,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-07-18T18:10:00,76,Strength,Full Body,8,90,114,524,5,Medium,False,,63.7,26.1,88.9,52,Focused on form.
+ed5a5758,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-07-22T12:45:00,64,Strength,Shoulders,8,99,139,457,7,High,False,,63.3,26.3,89.1,52,Tight on time.
+7dbc274e,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-07-25T19:10:00,75,Hypertrophy,Arms,9,85,113,656,7,High,False,,63.1,26.0,88.3,52,"Slept poorly, kept it light."
+3aeaad60,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-07-26T07:45:00,36,Mobility,Full Body,3,79,121,159,3,Medium,False,,63.3,25.4,90.3,52,Tight on time.
+21feeea9,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-07-27T06:30:00,27,HIIT,Chest,9,83,127,293,6,High,True,,63.1,25.6,90.4,52,Felt strong on compounds.
+5430fe02,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-01T18:10:00,25,HIIT,Arms,6,93,136,257,9,Medium,False,,63.9,26.3,89.9,52,Added steady-state cardio at end.
+de7d817c,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-02T17:45:00,71,Strength,Arms,6,96,135,445,7,Low,True,,63.1,25.7,89.5,52,"Slept poorly, kept it light."
+3cb0ace6,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-05T18:15:00,67,Mixed,Chest,7,84,117,480,8,Low,False,,63.5,25.7,88.8,52,"Slept poorly, kept it light."
+2e81faa7,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-07T19:45:00,76,Hypertrophy,Arms,6,97,118,640,5,Medium,False,,63.7,25.6,89.4,52,Hit a rep PR.
+d2505045,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-08T12:15:00,56,Mixed,Full Body,7,97,133,422,7,Low,False,,63.4,25.9,89.5,52,Added steady-state cardio at end.
+b5cf2cb4,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-09T18:05:00,26,Mobility,Back,6,87,105,126,3,High,False,,63.8,25.8,88.1,52,Tried new gym location.
+4bab531f,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-12T19:45:00,70,Strength,Legs,5,69,109,471,9,Low,False,,63.4,25.5,89.8,52,Felt strong on compounds.
+dfb4b1d1,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-13T17:05:00,27,HIIT,Full Body,10,99,128,282,5,Medium,True,Marcus,63.1,25.4,89.5,52,"Slept poorly, kept it light."
+88ed77c1,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-14T06:05:00,79,Strength,Shoulders,9,95,120,562,6,Medium,True,Priya,63.3,25.3,88.4,52,Felt strong on compounds.
+f214465f,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-17T19:00:00,35,Mobility,Chest,3,67,82,156,4,High,True,Marcus,63.0,25.0,88.3,52,"Slept poorly, kept it light."
+7027855c,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-18T19:15:00,67,Mixed,Full Body,8,90,116,464,7,Low,False,,63.5,25.5,91.0,52,Used lifting straps.
+cd6cfd20,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-19T18:10:00,71,Strength,Arms,6,86,134,449,4,Low,False,,63.4,26.0,91.8,52,Tight on time.
+9b0d9688,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-22T07:15:00,49,Cardio,Arms,1,95,117,450,7,High,False,,63.3,26.0,88.4,52,Felt strong on compounds.
+f9852731,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-24T18:00:00,70,Strength,Back,5,98,128,535,6,High,False,,62.8,25.2,88.4,52,Tight on time.
+a4d70825,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-25T17:45:00,84,Hypertrophy,Back,7,94,129,698,7,Medium,False,,62.9,25.2,87.7,52,Added steady-state cardio at end.
+811d4cc9,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-27T17:05:00,79,Hypertrophy,Full Body,9,90,117,662,4,High,False,,62.7,25.2,91.4,52,Tried new gym location.
+f0f0c1fb,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-08-28T19:10:00,86,Hypertrophy,Back,6,107,132,734,7,High,False,,63.6,25.1,87.3,52,Used lifting straps.
+5948525b,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-09-01T17:30:00,81,Hypertrophy,Chest,12,98,116,635,7,Medium,False,,62.9,25.1,89.6,52,Added steady-state cardio at end.
+fe22b762,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-09-02T07:30:00,73,Strength,Full Body,7,85,104,453,9,Low,False,,62.8,25.0,89.9,52,Tight on time.
+3548e3f2,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-09-04T17:45:00,75,Strength,Full Body,5,79,121,547,6,Medium,False,,63.4,25.5,89.5,52,"Busy gym, had to swap exercises."
+b35143e9,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-09-05T18:15:00,76,Hypertrophy,Full Body,9,73,90,606,6,High,False,,63.0,25.8,89.1,52,Focused on form.
+b0aa6092,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-09-08T12:00:00,66,Strength,Back,8,95,128,487,6,High,False,,62.7,25.2,89.4,52,Hit a rep PR.
+efcc7d44,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-09-09T06:20:00,27,HIIT,Back,7,98,126,301,9,Medium,False,,62.8,25.1,89.2,52,"Busy gym, had to swap exercises."
+aaa92410,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-09-12T17:05:00,50,Cardio,Legs,1,82,114,478,5,High,False,,63.2,25.3,89.0,52,Used lifting straps.
+77d84362,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-09-14T07:15:00,79,Hypertrophy,Core,8,103,125,609,6,Medium,False,,63.0,24.6,89.0,52,Used lifting straps.
+9f390889,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-09-15T07:45:00,33,Mobility,Back,4,79,117,142,3,Medium,True,,62.4,25.0,89.9,52,Hit a rep PR.
+45e73a71,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-09-16T18:45:00,21,HIIT,Full Body,7,115,145,241,9,High,True,,61.9,24.9,88.4,52,Used lifting straps.
+5502efc4,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-09-22T19:20:00,75,Strength,Chest,8,89,108,526,6,Medium,False,,62.6,24.0,89.7,52,Felt strong on compounds.
+1f093136,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-09-25T17:15:00,71,Strength,Shoulders,8,76,103,457,6,Low,False,,63.0,25.4,89.7,52,Felt strong on compounds.
+aab1643f,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-10-01T19:05:00,71,Strength,Chest,8,87,111,524,7,Medium,False,,62.8,24.4,88.3,52,Added steady-state cardio at end.
+935aad13,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-10-03T19:30:00,26,HIIT,Core,7,95,124,262,8,Low,False,,62.9,25.0,88.7,52,"Busy gym, had to swap exercises."
+32b25a8d,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-10-04T18:10:00,62,Strength,Core,5,88,108,408,8,Low,False,,62.5,24.6,88.4,52,Good pump today.
+4b9103dc,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-10-05T18:30:00,67,Hypertrophy,Core,11,90,112,512,9,Medium,False,,62.5,23.3,86.0,52,Felt strong on compounds.
+3c2d3325,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-10-07T18:30:00,23,HIIT,Legs,9,105,120,258,9,High,False,,62.4,24.2,89.0,52,Good pump today.
+6a59a1c4,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-10-08T07:20:00,38,Mobility,Full Body,4,74,93,173,3,Medium,True,Amir,63.3,24.4,88.7,52,Hit a rep PR.
+2af3cca1,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-10-09T18:30:00,32,Mobility,Core,4,79,100,125,4,Low,False,,62.5,23.8,89.7,52,Good pump today.
+ba29c81f,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-10-14T18:15:00,41,Cardio,Shoulders,2,89,112,400,6,High,False,,62.3,23.4,88.0,52,Added steady-state cardio at end.
+ae075ab6,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-10-18T18:30:00,24,HIIT,Arms,8,98,147,227,8,Low,False,,62.5,24.2,86.4,52,"Slept poorly, kept it light."
+2eca3b11,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-10-19T19:10:00,78,Hypertrophy,Legs,6,99,119,649,5,High,False,,61.9,24.1,89.3,52,"Busy gym, had to swap exercises."
+967ace3c,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-10-20T19:20:00,22,HIIT,Full Body,10,109,135,256,8,High,False,,62.0,24.0,86.3,52,Good pump today.
+c8563d56,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-10-22T17:30:00,58,Strength,Chest,6,92,116,379,7,Medium,False,,62.1,24.1,88.7,52,Tried new gym location.
+aff02f36,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-10-23T17:20:00,46,Cardio,Shoulders,2,112,152,412,3,Medium,False,,63.1,23.9,89.5,52,"Busy gym, had to swap exercises."
+9f11a54f,U009,Ivy,F,23,Beginner,General Fitness,London,2025-06-01,2025-10-25T19:10:00,30,HIIT,Legs,8,106,124,310,7,Medium,False,,62.8,23.3,87.5,52,"Busy gym, had to swap exercises."
+8eb69371,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-06-19T07:05:00,28,HIIT,Full Body,7,104,148,298,7,Medium,True,Evan,72.9,19.7,85.0,57,Felt strong on compounds.
+39824661,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-06-20T19:20:00,89,Hypertrophy,Arms,11,97,116,751,7,Medium,True,Amir,73.1,20.4,83.3,57,Good pump today.
+9ad25eac,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-06-21T07:15:00,71,Hypertrophy,Legs,6,104,148,542,5,Medium,False,,72.5,18.9,84.9,57,Added steady-state cardio at end.
+9d2cb581,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-06-22T18:15:00,56,Mixed,Arms,9,122,146,440,5,High,False,,72.6,19.8,83.8,57,Tight on time.
+4b973229,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-06-23T17:10:00,70,Mixed,Full Body,6,87,117,486,3,Low,False,,73.2,20.0,84.6,57,Added steady-state cardio at end.
+ae46df8d,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-06-24T17:00:00,63,Strength,Arms,5,86,105,428,5,Low,False,,72.7,19.2,84.7,57,Used lifting straps.
+f879d478,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-06-26T17:10:00,34,Cardio,Back,2,112,148,308,4,Medium,False,,72.9,18.6,85.5,57,DOMS from legs.
+0840cb88,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-06-28T19:30:00,46,Cardio,Back,2,90,131,456,4,High,False,,72.7,19.5,82.6,57,DOMS from legs.
+9c421714,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-01T19:30:00,35,Mobility,Legs,6,83,109,159,4,High,False,,73.1,18.8,85.3,57,Good pump today.
+175d1161,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-02T12:15:00,48,Cardio,Shoulders,2,101,136,402,3,Medium,False,,72.3,19.1,84.1,57,Focused on form.
+5e2a482f,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-04T18:15:00,67,Strength,Back,7,74,109,463,7,Medium,False,,73.1,19.6,84.4,57,Good pump today.
+151caa37,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-05T06:20:00,69,Strength,Shoulders,7,101,141,454,4,Medium,False,,72.7,19.6,85.3,57,Added steady-state cardio at end.
+b4ce5ecf,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-08T18:45:00,32,HIIT,Legs,10,110,153,358,6,High,False,,72.9,19.3,85.9,57,Used lifting straps.
+b1cc724d,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-11T12:45:00,73,Hypertrophy,Full Body,12,92,130,564,9,High,False,,72.8,18.9,85.7,57,Tried new gym location.
+7f128220,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-12T18:10:00,30,HIIT,Back,6,122,153,336,7,Medium,True,Chloe,72.4,19.4,85.6,57,Added steady-state cardio at end.
+e5303aff,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-13T19:00:00,38,Cardio,Shoulders,2,111,138,336,5,Medium,False,,72.5,19.4,83.9,57,"Slept poorly, kept it light."
+93adea12,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-14T17:30:00,81,Hypertrophy,Chest,7,95,126,609,6,Low,False,,73.2,19.1,82.6,57,"Busy gym, had to swap exercises."
+e5f926d6,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-16T17:10:00,26,HIIT,Chest,10,116,134,294,9,Medium,True,Priya,72.7,18.9,82.8,57,"Slept poorly, kept it light."
+0be89aaf,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-17T18:05:00,26,HIIT,Full Body,8,106,147,278,7,Low,False,,72.5,19.7,87.2,57,Good pump today.
+133a7f5d,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-18T06:20:00,77,Strength,Back,9,108,138,522,5,High,False,,72.8,19.4,85.6,57,Focused on form.
+f76d3906,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-21T17:05:00,71,Hypertrophy,Back,12,101,143,570,5,High,False,,72.8,18.5,82.4,57,DOMS from legs.
+d8044e7b,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-22T19:30:00,70,Strength,Shoulders,5,83,129,444,5,Low,False,,72.2,18.7,85.3,57,Felt strong on compounds.
+8c0d8ccd,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-25T07:15:00,35,Cardio,Core,2,99,139,290,6,Low,False,,72.9,19.0,84.7,57,Felt strong on compounds.
+4946e160,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-26T18:00:00,91,Strength,Back,7,89,117,625,7,Low,False,,72.6,18.7,84.2,57,"Slept poorly, kept it light."
+f28cbfa1,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-27T17:45:00,26,HIIT,Core,9,106,130,292,8,High,True,Evan,72.4,18.2,83.7,57,Felt strong on compounds.
+cbade031,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-28T18:20:00,65,Mixed,Chest,5,85,102,494,6,Medium,False,,72.8,19.1,85.5,57,"Slept poorly, kept it light."
+49fcb92e,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-30T18:05:00,88,Strength,Core,7,92,125,639,7,Medium,False,,72.3,18.5,85.4,57,Good pump today.
+5a37c287,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-07-31T07:20:00,48,Cardio,Arms,1,99,137,435,7,Medium,False,,73.0,19.9,86.8,57,Felt strong on compounds.
+4b9b23ac,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-08-03T18:30:00,63,Mixed,Arms,5,117,146,475,8,Medium,False,,72.3,19.1,85.3,57,Hit a rep PR.
+1c24f354,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-08-05T19:45:00,39,Cardio,Shoulders,1,107,150,359,4,Medium,False,,72.3,19.2,85.2,57,Focused on form.
+55006dad,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-08-07T07:10:00,72,Strength,Back,8,94,109,523,8,High,False,,72.6,18.6,83.5,57,Tight on time.
+099de513,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-08-09T18:00:00,40,Cardio,Shoulders,2,90,107,382,5,Medium,False,,72.7,18.7,84.3,57,Hit a rep PR.
+c8bf0481,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-08-10T18:10:00,34,Mobility,Core,6,86,105,144,3,Medium,False,,72.7,18.0,83.5,57,"Busy gym, had to swap exercises."
+9964ceb7,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-08-11T06:30:00,76,Strength,Shoulders,9,89,131,510,7,Medium,False,,72.3,18.7,83.1,57,"Slept poorly, kept it light."
+31829072,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-08-12T07:15:00,57,Mixed,Full Body,6,84,116,435,8,Medium,True,Marcus,72.2,18.7,82.9,57,Good pump today.
+a0665a8a,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-08-13T12:15:00,73,Hypertrophy,Full Body,12,105,127,615,6,Medium,False,,72.6,18.0,83.2,57,Tried new gym location.
+f3dc5251,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-08-14T19:10:00,37,Cardio,Shoulders,2,110,143,322,7,Medium,False,,72.6,18.3,85.9,57,"Slept poorly, kept it light."
+9cbc5ec6,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-08-16T07:15:00,42,Cardio,Back,1,96,121,352,4,Medium,False,,72.5,18.5,80.4,57,"Slept poorly, kept it light."
+eba17e62,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-08-17T17:00:00,29,HIIT,Back,8,92,134,297,8,Medium,False,,72.1,18.5,86.0,57,"Slept poorly, kept it light."
+38ad1529,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-08-23T18:05:00,37,Cardio,Arms,2,95,111,315,6,Medium,False,,72.4,18.5,83.1,57,DOMS from legs.
+448b4605,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-08-24T06:45:00,39,Cardio,Chest,2,107,122,347,4,High,False,,72.2,18.2,81.7,57,Added steady-state cardio at end.
+2b4050cb,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-08-25T17:00:00,26,HIIT,Full Body,7,116,141,281,7,Medium,False,,72.8,18.5,81.5,57,Tight on time.
+4efaf0f9,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-08-30T18:20:00,25,HIIT,Arms,9,122,157,270,7,Medium,False,,72.0,19.0,84.1,57,DOMS from legs.
+6a26a0e3,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-01T06:10:00,55,Mixed,Arms,10,102,141,439,7,Medium,False,,72.6,18.3,83.6,57,Good pump today.
+384c197b,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-02T06:20:00,21,HIIT,Legs,10,95,116,225,5,High,True,Amir,72.2,17.6,85.8,57,Focused on form.
+3ab8ae1e,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-03T06:05:00,23,HIIT,Arms,6,122,156,243,9,High,False,,71.9,17.8,84.0,57,Tight on time.
+6a007cfc,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-04T07:05:00,33,Cardio,Shoulders,2,95,122,290,5,High,False,,72.7,18.5,83.8,57,Tight on time.
+b1e0cc45,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-05T06:15:00,59,Mixed,Shoulders,9,114,136,497,6,Medium,False,,72.1,17.9,84.8,57,"Slept poorly, kept it light."
+148255be,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-06T19:00:00,48,Cardio,Core,2,102,129,434,4,Medium,False,,72.4,18.0,82.2,57,Good pump today.
+0099c941,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-07T19:05:00,30,HIIT,Core,10,111,136,285,9,Low,True,Chloe,72.2,18.0,84.0,57,Felt strong on compounds.
+8e9b1ab5,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-08T12:20:00,82,Hypertrophy,Full Body,6,95,133,664,6,Medium,False,,72.2,19.0,84.5,57,"Slept poorly, kept it light."
+d4bd90a8,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-10T18:20:00,20,HIIT,Full Body,8,120,162,209,6,Medium,False,,72.4,17.5,83.3,57,Focused on form.
+6629886e,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-12T18:10:00,43,Cardio,Shoulders,1,103,119,408,5,Medium,False,,72.5,18.1,83.0,57,DOMS from legs.
+ad2efcda,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-14T19:20:00,28,HIIT,Shoulders,8,108,140,287,6,Medium,False,,72.2,17.6,81.8,57,Used lifting straps.
+6084448a,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-15T19:15:00,77,Strength,Back,7,91,114,525,8,Low,False,,72.5,18.2,82.8,57,"Busy gym, had to swap exercises."
+92353e21,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-19T19:15:00,68,Strength,Back,8,96,129,455,9,Low,False,,72.2,17.9,84.5,57,Tried new gym location.
+b89900c8,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-22T07:30:00,38,Cardio,Chest,1,95,119,323,5,Medium,False,,71.8,18.0,84.7,57,Tight on time.
+39349f39,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-23T17:20:00,47,Mixed,Back,6,106,143,363,9,Medium,False,,72.0,17.9,82.0,57,Tight on time.
+41659605,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-25T18:00:00,85,Strength,Core,5,88,129,594,10,Medium,False,,72.1,18.1,82.9,57,"Slept poorly, kept it light."
+69073af8,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-26T19:15:00,26,Mobility,Shoulders,4,80,110,122,4,Medium,True,Evan,71.9,17.9,83.5,57,DOMS from legs.
+a38ec169,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-28T18:20:00,78,Hypertrophy,Chest,7,92,136,561,7,Low,False,,71.9,17.4,82.8,57,Good pump today.
+fda68191,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-09-30T19:30:00,78,Hypertrophy,Shoulders,7,95,138,565,6,Low,False,,72.1,16.8,85.0,57,Hit a rep PR.
+56903f26,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-03T06:20:00,59,Mixed,Legs,9,96,121,482,4,High,False,,71.8,17.8,84.6,57,Hit a rep PR.
+c7d46145,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-04T19:45:00,25,HIIT,Core,8,114,147,278,5,Medium,True,,72.1,17.3,82.3,57,Tried new gym location.
+360cb642,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-05T18:00:00,82,Hypertrophy,Arms,9,89,127,641,7,Low,False,,72.4,17.4,83.0,57,Good pump today.
+8dd5a40d,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-06T19:30:00,36,Mobility,Shoulders,3,81,102,142,5,Low,False,,72.2,16.8,83.0,57,Tight on time.
+c1c997c8,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-07T17:45:00,39,Mobility,Back,6,84,122,175,3,Medium,False,,71.9,16.9,83.5,57,Focused on form.
+f66100dd,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-08T19:15:00,22,HIIT,Full Body,9,116,134,247,5,Medium,False,,72.3,17.0,83.0,57,"Busy gym, had to swap exercises."
+36bf4535,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-10T18:20:00,26,HIIT,Arms,8,121,137,281,7,Medium,False,,71.6,17.4,83.4,57,Felt strong on compounds.
+1827a434,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-13T18:05:00,70,Strength,Shoulders,6,81,128,420,8,Low,False,,72.0,17.4,83.2,57,Used lifting straps.
+538b461a,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-14T06:05:00,21,HIIT,Core,7,114,140,234,7,High,False,,71.9,16.1,80.1,57,Focused on form.
+9eb24f1a,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-17T17:30:00,43,Cardio,Legs,2,99,127,381,6,High,False,,72.4,17.5,81.4,57,Good pump today.
+3a891b79,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-18T07:15:00,28,Mobility,Back,3,74,114,108,3,Low,False,,71.9,16.2,82.4,57,Tried new gym location.
+6c2d0017,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-21T18:05:00,78,Hypertrophy,Full Body,12,101,131,550,8,Low,False,,71.7,17.2,80.8,57,Used lifting straps.
+4246b47a,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-22T19:05:00,26,HIIT,Shoulders,9,121,143,279,5,High,False,,71.8,16.8,83.1,57,"Slept poorly, kept it light."
+1df147d3,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-23T12:05:00,29,Mobility,Core,5,85,111,134,3,High,False,,71.7,16.6,83.0,57,Focused on form.
+d9cf6ec2,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-24T07:45:00,82,Hypertrophy,Core,8,96,127,662,7,High,False,,72.2,18.0,83.1,57,Focused on form.
+07f47956,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-25T07:45:00,70,Hypertrophy,Legs,7,102,119,580,8,High,False,,72.1,17.5,83.6,57,Good pump today.
+a63febae,U010,Jude,M,31,Intermediate,Endurance,Glasgow,2025-06-18,2025-10-26T18:30:00,69,Strength,Legs,8,81,116,477,6,High,False,,72.2,16.7,83.9,57,Focused on form.
