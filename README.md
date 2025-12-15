@@ -1,7 +1,7 @@
 # Code Institute Data Analysis and AI Bootcamp Notes
 
 ## Setup
-To Create Virtual Environment `python -m venv venv`
+To Create Virtual Environment `python -m venv venv` or `py -3.10 -m venv venv`
 
 Activate Virtual Environment `venv\Scripts\activate` (windows) or 'source venv/bin/activate' (mac)
 
